@@ -1,0 +1,913 @@
+[26-Jul-2020 18:15:53 America/New_York] PHP Warning:  include(/c/v/nav.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 6
+[26-Jul-2020 18:15:53 America/New_York] PHP Warning:  include(/c/v/nav.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 6
+[26-Jul-2020 18:15:53 America/New_York] PHP Warning:  include(): Failed opening '/c/v/nav.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 6
+[26-Jul-2020 18:15:53 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/health.irontin.com/home/home.php on line 49
+[26-Jul-2020 18:15:53 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 49
+[26-Jul-2020 18:15:53 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 112
+[26-Jul-2020 18:15:53 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 112
+[26-Jul-2020 18:15:53 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/home/home.php on line 120
+[26-Jul-2020 18:15:53 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 120
+[26-Jul-2020 18:15:53 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 121
+[26-Jul-2020 18:15:53 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 146
+[26-Jul-2020 18:15:53 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 146
+[26-Jul-2020 18:15:53 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/home/home.php on line 154
+[26-Jul-2020 18:15:53 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 154
+[26-Jul-2020 18:15:53 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 155
+[26-Jul-2020 18:15:53 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 18:15:53 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 137
+[26-Jul-2020 18:15:56 America/New_York] PHP Warning:  include(/c/v/nav.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 6
+[26-Jul-2020 18:15:56 America/New_York] PHP Warning:  include(/c/v/nav.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 6
+[26-Jul-2020 18:15:56 America/New_York] PHP Warning:  include(): Failed opening '/c/v/nav.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 6
+[26-Jul-2020 18:15:56 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/health.irontin.com/home/home.php on line 49
+[26-Jul-2020 18:15:56 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 49
+[26-Jul-2020 18:15:56 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 112
+[26-Jul-2020 18:15:56 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 112
+[26-Jul-2020 18:15:56 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/home/home.php on line 120
+[26-Jul-2020 18:15:56 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 120
+[26-Jul-2020 18:15:56 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 121
+[26-Jul-2020 18:15:56 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 146
+[26-Jul-2020 18:15:56 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 146
+[26-Jul-2020 18:15:56 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/home/home.php on line 154
+[26-Jul-2020 18:15:56 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 154
+[26-Jul-2020 18:15:56 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 155
+[26-Jul-2020 18:15:56 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 18:15:56 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 137
+[26-Jul-2020 18:23:03 America/New_York] PHP Warning:  include(/c/v/nav.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 6
+[26-Jul-2020 18:23:03 America/New_York] PHP Warning:  include(/c/v/nav.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 6
+[26-Jul-2020 18:23:03 America/New_York] PHP Warning:  include(): Failed opening '/c/v/nav.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 6
+[26-Jul-2020 18:23:03 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/health.irontin.com/home/home.php on line 49
+[26-Jul-2020 18:23:03 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 49
+[26-Jul-2020 18:23:03 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 112
+[26-Jul-2020 18:23:03 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 112
+[26-Jul-2020 18:23:03 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/home/home.php on line 120
+[26-Jul-2020 18:23:03 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 120
+[26-Jul-2020 18:23:03 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 121
+[26-Jul-2020 18:23:03 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 146
+[26-Jul-2020 18:23:03 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 146
+[26-Jul-2020 18:23:03 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/home/home.php on line 154
+[26-Jul-2020 18:23:03 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 154
+[26-Jul-2020 18:23:03 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 155
+[26-Jul-2020 18:23:03 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 18:23:03 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 137
+[26-Jul-2020 18:23:32 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/health.irontin.com/home/home.php on line 49
+[26-Jul-2020 18:23:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 49
+[26-Jul-2020 18:23:32 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 112
+[26-Jul-2020 18:23:32 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 112
+[26-Jul-2020 18:23:32 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/home/home.php on line 120
+[26-Jul-2020 18:23:32 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 120
+[26-Jul-2020 18:23:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 121
+[26-Jul-2020 18:23:32 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 146
+[26-Jul-2020 18:23:32 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 146
+[26-Jul-2020 18:23:32 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/home/home.php on line 154
+[26-Jul-2020 18:23:32 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 154
+[26-Jul-2020 18:23:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 155
+[26-Jul-2020 18:23:32 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 18:23:32 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 137
+[26-Jul-2020 18:26:16 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/health.irontin.com/home/home.php on line 49
+[26-Jul-2020 18:26:16 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 49
+[26-Jul-2020 18:26:16 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 112
+[26-Jul-2020 18:26:16 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 112
+[26-Jul-2020 18:26:16 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/home/home.php on line 120
+[26-Jul-2020 18:26:16 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 120
+[26-Jul-2020 18:26:16 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 121
+[26-Jul-2020 18:26:16 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 146
+[26-Jul-2020 18:26:16 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 146
+[26-Jul-2020 18:26:16 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/home/home.php on line 154
+[26-Jul-2020 18:26:16 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 154
+[26-Jul-2020 18:26:16 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 155
+[26-Jul-2020 18:26:16 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 18:26:16 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 137
+[26-Jul-2020 18:26:24 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/health.irontin.com/home/home.php on line 49
+[26-Jul-2020 18:26:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 49
+[26-Jul-2020 18:26:24 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 112
+[26-Jul-2020 18:26:24 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 112
+[26-Jul-2020 18:26:24 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/home/home.php on line 120
+[26-Jul-2020 18:26:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 120
+[26-Jul-2020 18:26:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 121
+[26-Jul-2020 18:26:24 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 146
+[26-Jul-2020 18:26:24 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 146
+[26-Jul-2020 18:26:24 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/home/home.php on line 154
+[26-Jul-2020 18:26:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 154
+[26-Jul-2020 18:26:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 155
+[26-Jul-2020 18:26:24 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 18:26:24 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 137
+[26-Jul-2020 18:32:33 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/health.irontin.com/home/home.php on line 49
+[26-Jul-2020 18:32:33 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 49
+[26-Jul-2020 18:32:33 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 112
+[26-Jul-2020 18:32:33 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 112
+[26-Jul-2020 18:32:33 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/home/home.php on line 120
+[26-Jul-2020 18:32:33 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 120
+[26-Jul-2020 18:32:33 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 121
+[26-Jul-2020 18:32:33 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 146
+[26-Jul-2020 18:32:33 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 146
+[26-Jul-2020 18:32:33 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/home/home.php on line 154
+[26-Jul-2020 18:32:33 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 154
+[26-Jul-2020 18:32:33 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 155
+[26-Jul-2020 18:32:33 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 18:32:33 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 137
+[26-Jul-2020 18:33:26 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/health.irontin.com/home/home.php on line 49
+[26-Jul-2020 18:33:26 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 49
+[26-Jul-2020 18:33:26 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 112
+[26-Jul-2020 18:33:26 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 112
+[26-Jul-2020 18:33:26 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/home/home.php on line 120
+[26-Jul-2020 18:33:26 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 120
+[26-Jul-2020 18:33:26 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 121
+[26-Jul-2020 18:33:26 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 146
+[26-Jul-2020 18:33:26 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 146
+[26-Jul-2020 18:33:26 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/home/home.php on line 154
+[26-Jul-2020 18:33:26 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 154
+[26-Jul-2020 18:33:26 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 155
+[26-Jul-2020 18:33:26 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 18:33:26 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 137
+[26-Jul-2020 18:34:44 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/health.irontin.com/home/home.php on line 49
+[26-Jul-2020 18:34:44 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 49
+[26-Jul-2020 18:34:44 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 112
+[26-Jul-2020 18:34:44 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 112
+[26-Jul-2020 18:34:44 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/home/home.php on line 120
+[26-Jul-2020 18:34:44 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 120
+[26-Jul-2020 18:34:44 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 121
+[26-Jul-2020 18:34:44 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 146
+[26-Jul-2020 18:34:44 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 146
+[26-Jul-2020 18:34:44 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/home/home.php on line 154
+[26-Jul-2020 18:34:44 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 154
+[26-Jul-2020 18:34:44 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 155
+[26-Jul-2020 18:34:44 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 18:34:44 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 137
+[26-Jul-2020 18:36:32 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/health.irontin.com/home/home.php on line 49
+[26-Jul-2020 18:36:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 49
+[26-Jul-2020 18:36:32 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 112
+[26-Jul-2020 18:36:32 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 112
+[26-Jul-2020 18:36:32 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/home/home.php on line 120
+[26-Jul-2020 18:36:32 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 120
+[26-Jul-2020 18:36:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 121
+[26-Jul-2020 18:36:32 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/home/home.php on line 146
+[26-Jul-2020 18:36:32 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/home/home.php on line 146
+[26-Jul-2020 18:36:32 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/home/home.php on line 154
+[26-Jul-2020 18:36:32 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 154
+[26-Jul-2020 18:36:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/home/home.php on line 155
+[26-Jul-2020 18:36:32 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 18:36:32 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 137
+[26-Jul-2020 19:57:01 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[26-Jul-2020 19:57:01 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[26-Jul-2020 19:57:01 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[26-Jul-2020 19:57:01 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[26-Jul-2020 19:57:01 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[26-Jul-2020 19:57:01 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[26-Jul-2020 19:57:01 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[26-Jul-2020 19:57:01 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[26-Jul-2020 19:57:01 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[26-Jul-2020 19:57:01 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[26-Jul-2020 19:57:01 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[26-Jul-2020 19:57:01 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[26-Jul-2020 19:57:01 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 19:57:01 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[26-Jul-2020 19:57:52 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[26-Jul-2020 19:57:52 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[26-Jul-2020 19:57:52 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[26-Jul-2020 19:57:52 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[26-Jul-2020 19:57:52 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[26-Jul-2020 19:57:52 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[26-Jul-2020 19:57:52 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[26-Jul-2020 19:57:52 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[26-Jul-2020 19:57:52 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[26-Jul-2020 19:57:52 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[26-Jul-2020 19:57:52 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[26-Jul-2020 19:57:52 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[26-Jul-2020 19:57:52 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 19:57:52 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[01-Aug-2020 01:32:40 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[01-Aug-2020 01:32:40 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[01-Aug-2020 01:32:40 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[01-Aug-2020 01:32:40 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[01-Aug-2020 01:32:40 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[01-Aug-2020 01:32:40 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[01-Aug-2020 01:32:40 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[01-Aug-2020 01:32:40 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[01-Aug-2020 01:32:40 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[01-Aug-2020 01:32:40 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[01-Aug-2020 01:32:40 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[01-Aug-2020 01:32:40 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[01-Aug-2020 01:32:40 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[01-Aug-2020 01:32:40 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[01-Aug-2020 01:32:41 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[01-Aug-2020 01:32:41 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[01-Aug-2020 01:32:41 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[01-Aug-2020 01:32:41 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[01-Aug-2020 01:32:41 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[01-Aug-2020 01:32:41 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[01-Aug-2020 01:32:41 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[01-Aug-2020 01:32:41 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[01-Aug-2020 01:32:41 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[01-Aug-2020 01:32:41 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[01-Aug-2020 01:32:41 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[01-Aug-2020 01:32:41 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[01-Aug-2020 01:32:41 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[01-Aug-2020 01:32:41 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[03-Aug-2020 08:36:33 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[03-Aug-2020 08:36:33 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[03-Aug-2020 08:36:33 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[03-Aug-2020 08:36:33 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[03-Aug-2020 08:36:33 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[03-Aug-2020 08:36:33 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[03-Aug-2020 08:36:33 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[03-Aug-2020 08:36:33 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[03-Aug-2020 08:36:33 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[03-Aug-2020 08:36:33 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[03-Aug-2020 08:36:33 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[03-Aug-2020 08:36:33 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[03-Aug-2020 08:36:33 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 08:36:33 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[03-Aug-2020 08:38:19 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[03-Aug-2020 08:38:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[03-Aug-2020 08:38:19 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[03-Aug-2020 08:38:19 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[03-Aug-2020 08:38:19 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[03-Aug-2020 08:38:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[03-Aug-2020 08:38:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[03-Aug-2020 08:38:19 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[03-Aug-2020 08:38:19 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[03-Aug-2020 08:38:19 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[03-Aug-2020 08:38:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[03-Aug-2020 08:38:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[03-Aug-2020 08:38:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 08:38:19 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[03-Aug-2020 08:39:47 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[03-Aug-2020 08:39:47 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[03-Aug-2020 08:39:47 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[03-Aug-2020 08:39:47 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[03-Aug-2020 08:39:47 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[03-Aug-2020 08:39:47 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[03-Aug-2020 08:39:47 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[03-Aug-2020 08:39:47 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[03-Aug-2020 08:39:47 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[03-Aug-2020 08:39:47 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[03-Aug-2020 08:39:47 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[03-Aug-2020 08:39:47 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[03-Aug-2020 08:39:47 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 08:39:47 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[03-Aug-2020 08:42:32 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[03-Aug-2020 08:42:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[03-Aug-2020 08:42:32 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[03-Aug-2020 08:42:32 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[03-Aug-2020 08:42:32 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[03-Aug-2020 08:42:32 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[03-Aug-2020 08:42:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[03-Aug-2020 08:42:32 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[03-Aug-2020 08:42:32 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[03-Aug-2020 08:42:32 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[03-Aug-2020 08:42:32 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[03-Aug-2020 08:42:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[03-Aug-2020 08:42:32 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 08:42:32 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[03-Aug-2020 15:21:24 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[03-Aug-2020 15:21:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[03-Aug-2020 15:21:24 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[03-Aug-2020 15:21:24 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[03-Aug-2020 15:21:24 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[03-Aug-2020 15:21:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[03-Aug-2020 15:21:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[03-Aug-2020 15:21:24 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[03-Aug-2020 15:21:24 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[03-Aug-2020 15:21:24 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[03-Aug-2020 15:21:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[03-Aug-2020 15:21:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[03-Aug-2020 15:21:24 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 15:21:24 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[03-Aug-2020 15:21:24 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[03-Aug-2020 15:21:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[03-Aug-2020 15:21:24 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[03-Aug-2020 15:21:24 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[03-Aug-2020 15:21:24 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[03-Aug-2020 15:21:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[03-Aug-2020 15:21:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[03-Aug-2020 15:21:24 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[03-Aug-2020 15:21:24 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[03-Aug-2020 15:21:24 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[03-Aug-2020 15:21:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[03-Aug-2020 15:21:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[03-Aug-2020 15:21:24 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 15:21:24 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[03-Aug-2020 17:49:51 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[03-Aug-2020 17:49:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[03-Aug-2020 17:49:51 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[03-Aug-2020 17:49:51 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[03-Aug-2020 17:49:51 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[03-Aug-2020 17:49:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[03-Aug-2020 17:49:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[03-Aug-2020 17:49:51 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[03-Aug-2020 17:49:51 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[03-Aug-2020 17:49:51 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[03-Aug-2020 17:49:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[03-Aug-2020 17:49:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[03-Aug-2020 17:49:51 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 17:49:51 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[03-Aug-2020 17:52:36 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[03-Aug-2020 17:52:36 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[03-Aug-2020 17:52:36 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[03-Aug-2020 17:52:36 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[03-Aug-2020 17:52:36 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[03-Aug-2020 17:52:36 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[03-Aug-2020 17:52:36 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[03-Aug-2020 17:52:36 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[03-Aug-2020 17:52:36 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[03-Aug-2020 17:52:36 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[03-Aug-2020 17:52:36 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[03-Aug-2020 17:52:36 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[03-Aug-2020 17:52:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 17:52:36 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[15-Aug-2020 14:11:31 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[15-Aug-2020 14:11:31 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[15-Aug-2020 14:11:31 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[15-Aug-2020 14:11:31 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[15-Aug-2020 14:11:31 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[15-Aug-2020 14:11:31 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[15-Aug-2020 14:11:31 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[15-Aug-2020 14:11:31 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[15-Aug-2020 14:11:31 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[15-Aug-2020 14:11:31 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[15-Aug-2020 14:11:31 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[15-Aug-2020 14:11:31 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[15-Aug-2020 14:11:31 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[15-Aug-2020 14:11:31 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[16-Aug-2020 06:01:20 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[16-Aug-2020 06:01:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[16-Aug-2020 06:01:20 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[16-Aug-2020 06:01:20 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[16-Aug-2020 06:01:20 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[16-Aug-2020 06:01:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[16-Aug-2020 06:01:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[16-Aug-2020 06:01:20 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[16-Aug-2020 06:01:20 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[16-Aug-2020 06:01:20 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[16-Aug-2020 06:01:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[16-Aug-2020 06:01:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[16-Aug-2020 06:01:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[16-Aug-2020 06:01:20 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[18-Aug-2020 06:03:56 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[18-Aug-2020 06:03:56 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[18-Aug-2020 06:03:56 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[18-Aug-2020 06:03:56 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[18-Aug-2020 06:03:56 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[18-Aug-2020 06:03:56 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[18-Aug-2020 06:03:56 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[18-Aug-2020 06:03:56 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[18-Aug-2020 06:03:56 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[18-Aug-2020 06:03:56 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[18-Aug-2020 06:03:56 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[18-Aug-2020 06:03:56 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[18-Aug-2020 06:03:56 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[18-Aug-2020 06:03:56 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[21-Aug-2020 10:59:10 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[21-Aug-2020 10:59:10 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[21-Aug-2020 10:59:10 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[21-Aug-2020 10:59:10 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[21-Aug-2020 10:59:10 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[21-Aug-2020 10:59:10 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[21-Aug-2020 10:59:10 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[21-Aug-2020 10:59:10 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[21-Aug-2020 10:59:10 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[21-Aug-2020 10:59:10 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[21-Aug-2020 10:59:10 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[21-Aug-2020 10:59:10 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[21-Aug-2020 10:59:10 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[21-Aug-2020 10:59:10 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[21-Aug-2020 10:59:23 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/homeAPI.php on line 5
+[21-Aug-2020 10:59:23 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/homeAPI.php on line 5
+[21-Aug-2020 10:59:23 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/homeAPI.php on line 9
+[21-Aug-2020 10:59:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/homeAPI.php on line 9
+[21-Aug-2020 10:59:23 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[21-Aug-2020 10:59:23 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[21-Aug-2020 10:59:23 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[21-Aug-2020 10:59:23 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[21-Aug-2020 10:59:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[21-Aug-2020 10:59:23 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[21-Aug-2020 10:59:23 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[21-Aug-2020 10:59:23 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[21-Aug-2020 10:59:23 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[21-Aug-2020 10:59:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[21-Aug-2020 10:59:23 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[21-Aug-2020 10:59:23 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[21-Aug-2020 10:59:23 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[23-Aug-2020 19:30:52 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[23-Aug-2020 19:30:52 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[23-Aug-2020 19:30:52 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[23-Aug-2020 19:30:52 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[23-Aug-2020 19:30:52 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[23-Aug-2020 19:30:52 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[23-Aug-2020 19:30:52 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[23-Aug-2020 19:30:52 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[23-Aug-2020 19:30:52 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[23-Aug-2020 19:30:52 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[23-Aug-2020 19:30:52 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[23-Aug-2020 19:30:52 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[23-Aug-2020 19:30:52 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[23-Aug-2020 19:30:52 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 20:36:13 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[24-Aug-2020 20:36:13 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[24-Aug-2020 20:36:13 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[24-Aug-2020 20:36:13 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[24-Aug-2020 20:36:13 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[24-Aug-2020 20:36:13 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[24-Aug-2020 20:36:13 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[24-Aug-2020 20:36:13 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[24-Aug-2020 20:36:13 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[24-Aug-2020 20:36:13 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[24-Aug-2020 20:36:13 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[24-Aug-2020 20:36:13 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[24-Aug-2020 20:36:13 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 20:36:13 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 20:56:18 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[24-Aug-2020 20:56:18 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[24-Aug-2020 20:56:18 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[24-Aug-2020 20:56:18 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[24-Aug-2020 20:56:18 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[24-Aug-2020 20:56:18 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[24-Aug-2020 20:56:18 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[24-Aug-2020 20:56:18 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[24-Aug-2020 20:56:18 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[24-Aug-2020 20:56:18 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[24-Aug-2020 20:56:18 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[24-Aug-2020 20:56:18 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[24-Aug-2020 20:56:18 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 20:56:18 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 20:57:15 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[24-Aug-2020 20:57:15 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[24-Aug-2020 20:57:15 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[24-Aug-2020 20:57:15 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[24-Aug-2020 20:57:15 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[24-Aug-2020 20:57:15 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[24-Aug-2020 20:57:15 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[24-Aug-2020 20:57:15 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[24-Aug-2020 20:57:15 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[24-Aug-2020 20:57:15 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[24-Aug-2020 20:57:15 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[24-Aug-2020 20:57:15 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[24-Aug-2020 20:57:15 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 20:57:15 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 20:57:24 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[24-Aug-2020 20:57:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[24-Aug-2020 20:57:24 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[24-Aug-2020 20:57:24 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[24-Aug-2020 20:57:24 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[24-Aug-2020 20:57:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[24-Aug-2020 20:57:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[24-Aug-2020 20:57:24 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[24-Aug-2020 20:57:24 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[24-Aug-2020 20:57:24 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[24-Aug-2020 20:57:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[24-Aug-2020 20:57:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[24-Aug-2020 20:57:24 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 20:57:24 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 20:58:35 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[24-Aug-2020 20:58:35 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[24-Aug-2020 20:58:35 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[24-Aug-2020 20:58:35 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[24-Aug-2020 20:58:35 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[24-Aug-2020 20:58:35 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[24-Aug-2020 20:58:35 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[24-Aug-2020 20:58:35 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[24-Aug-2020 20:58:35 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[24-Aug-2020 20:58:35 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[24-Aug-2020 20:58:35 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[24-Aug-2020 20:58:35 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[24-Aug-2020 20:58:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 20:58:35 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 20:59:31 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[24-Aug-2020 20:59:31 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[24-Aug-2020 20:59:31 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[24-Aug-2020 20:59:31 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[24-Aug-2020 20:59:31 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[24-Aug-2020 20:59:31 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[24-Aug-2020 20:59:31 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[24-Aug-2020 20:59:31 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[24-Aug-2020 20:59:31 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[24-Aug-2020 20:59:31 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[24-Aug-2020 20:59:31 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[24-Aug-2020 20:59:31 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[24-Aug-2020 20:59:31 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 20:59:31 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[25-Aug-2020 18:49:23 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[25-Aug-2020 18:49:23 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[25-Aug-2020 18:49:23 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[25-Aug-2020 18:49:23 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[25-Aug-2020 18:49:23 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[25-Aug-2020 18:49:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[25-Aug-2020 18:49:23 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[25-Aug-2020 18:49:23 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[25-Aug-2020 18:49:23 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[25-Aug-2020 18:49:23 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[25-Aug-2020 18:49:23 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[25-Aug-2020 18:49:23 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[25-Aug-2020 18:49:23 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 18:49:23 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[25-Aug-2020 18:50:20 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[25-Aug-2020 18:50:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[25-Aug-2020 18:50:20 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[25-Aug-2020 18:50:20 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[25-Aug-2020 18:50:20 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[25-Aug-2020 18:50:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[25-Aug-2020 18:50:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[25-Aug-2020 18:50:20 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[25-Aug-2020 18:50:20 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[25-Aug-2020 18:50:20 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[25-Aug-2020 18:50:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[25-Aug-2020 18:50:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[25-Aug-2020 18:50:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 18:50:20 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[25-Aug-2020 19:56:40 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[25-Aug-2020 19:56:40 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[25-Aug-2020 19:56:40 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[25-Aug-2020 19:56:40 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[25-Aug-2020 19:56:40 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[25-Aug-2020 19:56:40 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[25-Aug-2020 19:56:40 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[25-Aug-2020 19:56:40 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[25-Aug-2020 19:56:40 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[25-Aug-2020 19:56:40 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[25-Aug-2020 19:56:40 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[25-Aug-2020 19:56:40 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[25-Aug-2020 19:56:40 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 19:56:40 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[25-Aug-2020 20:00:13 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[25-Aug-2020 20:00:13 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[25-Aug-2020 20:00:13 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[25-Aug-2020 20:00:13 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[25-Aug-2020 20:00:13 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[25-Aug-2020 20:00:13 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[25-Aug-2020 20:00:13 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[25-Aug-2020 20:00:13 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[25-Aug-2020 20:00:13 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[25-Aug-2020 20:00:13 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[25-Aug-2020 20:00:13 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[25-Aug-2020 20:00:13 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[25-Aug-2020 20:00:13 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:00:13 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[25-Aug-2020 20:08:39 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[25-Aug-2020 20:08:39 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[25-Aug-2020 20:08:39 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[25-Aug-2020 20:08:39 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[25-Aug-2020 20:08:39 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[25-Aug-2020 20:08:39 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[25-Aug-2020 20:08:39 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[25-Aug-2020 20:08:39 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[25-Aug-2020 20:08:39 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[25-Aug-2020 20:08:39 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[25-Aug-2020 20:08:39 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[25-Aug-2020 20:08:39 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[25-Aug-2020 20:08:39 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:08:39 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[25-Aug-2020 20:14:02 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[25-Aug-2020 20:14:02 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[25-Aug-2020 20:14:02 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[25-Aug-2020 20:14:02 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[25-Aug-2020 20:14:02 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[25-Aug-2020 20:14:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[25-Aug-2020 20:14:02 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[25-Aug-2020 20:14:02 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[25-Aug-2020 20:14:02 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[25-Aug-2020 20:14:02 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[25-Aug-2020 20:14:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[25-Aug-2020 20:14:02 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[25-Aug-2020 20:14:02 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:14:02 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[25-Aug-2020 20:14:33 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[25-Aug-2020 20:14:33 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[25-Aug-2020 20:14:33 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[25-Aug-2020 20:14:33 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[25-Aug-2020 20:14:33 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[25-Aug-2020 20:14:33 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[25-Aug-2020 20:14:33 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[25-Aug-2020 20:14:33 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[25-Aug-2020 20:14:33 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[25-Aug-2020 20:14:33 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[25-Aug-2020 20:14:33 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[25-Aug-2020 20:14:33 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[25-Aug-2020 20:14:33 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:14:33 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[25-Aug-2020 20:16:29 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[25-Aug-2020 20:16:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[25-Aug-2020 20:16:29 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[25-Aug-2020 20:16:29 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[25-Aug-2020 20:16:29 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[25-Aug-2020 20:16:29 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[25-Aug-2020 20:16:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[25-Aug-2020 20:16:29 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[25-Aug-2020 20:16:29 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[25-Aug-2020 20:16:29 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[25-Aug-2020 20:16:29 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[25-Aug-2020 20:16:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[25-Aug-2020 20:16:29 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:16:29 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[25-Aug-2020 20:19:52 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[25-Aug-2020 20:19:52 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[25-Aug-2020 20:19:52 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[25-Aug-2020 20:19:52 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[25-Aug-2020 20:19:52 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[25-Aug-2020 20:19:52 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[25-Aug-2020 20:19:52 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[25-Aug-2020 20:19:52 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[25-Aug-2020 20:19:52 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[25-Aug-2020 20:19:52 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[25-Aug-2020 20:19:52 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[25-Aug-2020 20:19:52 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[25-Aug-2020 20:19:52 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:19:52 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[26-Aug-2020 17:31:00 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[26-Aug-2020 17:31:00 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[26-Aug-2020 17:31:00 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[26-Aug-2020 17:31:00 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[26-Aug-2020 17:31:00 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[26-Aug-2020 17:31:00 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[26-Aug-2020 17:31:00 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[26-Aug-2020 17:31:00 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[26-Aug-2020 17:31:00 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[26-Aug-2020 17:31:00 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[26-Aug-2020 17:31:00 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[26-Aug-2020 17:31:00 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[26-Aug-2020 17:31:00 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[26-Aug-2020 17:31:00 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[26-Aug-2020 17:55:38 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[26-Aug-2020 17:55:38 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[26-Aug-2020 17:55:38 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[26-Aug-2020 17:55:38 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[26-Aug-2020 17:55:38 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[26-Aug-2020 17:55:38 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[26-Aug-2020 17:55:38 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[26-Aug-2020 17:55:38 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[26-Aug-2020 17:55:38 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[26-Aug-2020 17:55:38 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[26-Aug-2020 17:55:38 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[26-Aug-2020 17:55:38 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[26-Aug-2020 17:55:38 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[26-Aug-2020 17:55:38 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[26-Aug-2020 18:01:53 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[26-Aug-2020 18:01:53 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[26-Aug-2020 18:01:53 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[26-Aug-2020 18:01:53 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[26-Aug-2020 18:01:53 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[26-Aug-2020 18:01:53 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[26-Aug-2020 18:01:53 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[26-Aug-2020 18:01:53 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[26-Aug-2020 18:01:53 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[26-Aug-2020 18:01:53 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[26-Aug-2020 18:01:53 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[26-Aug-2020 18:01:53 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[26-Aug-2020 18:01:53 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[26-Aug-2020 18:01:53 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[29-Aug-2020 06:49:28 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[29-Aug-2020 06:49:28 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[29-Aug-2020 06:49:28 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 06:49:28 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 06:49:28 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 06:49:28 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 06:49:28 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[29-Aug-2020 06:49:28 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 06:49:28 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 06:49:28 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 06:49:28 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 06:49:28 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[29-Aug-2020 06:49:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[29-Aug-2020 06:49:28 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[29-Aug-2020 06:50:09 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[29-Aug-2020 06:50:09 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[29-Aug-2020 06:50:09 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 06:50:09 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 06:50:09 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 06:50:09 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 06:50:09 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[29-Aug-2020 06:50:09 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 06:50:09 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 06:50:09 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 06:50:09 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 06:50:09 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[29-Aug-2020 06:50:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[29-Aug-2020 06:50:09 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[29-Aug-2020 06:50:17 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[29-Aug-2020 06:50:17 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[29-Aug-2020 06:50:17 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 06:50:17 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 06:50:17 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 06:50:17 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 06:50:17 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[29-Aug-2020 06:50:17 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 06:50:17 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 06:50:17 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 06:50:17 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 06:50:17 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[29-Aug-2020 06:50:17 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[29-Aug-2020 06:50:17 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[29-Aug-2020 06:50:29 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/homeAPI.php on line 5
+[29-Aug-2020 06:50:29 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/homeAPI.php on line 5
+[29-Aug-2020 06:50:29 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/homeAPI.php on line 9
+[29-Aug-2020 06:50:29 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/homeAPI.php on line 9
+[29-Aug-2020 06:50:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[29-Aug-2020 06:50:29 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 06:50:29 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 06:50:29 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 06:50:29 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 06:50:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[29-Aug-2020 06:50:29 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 06:50:29 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 06:50:29 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 06:50:29 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 06:50:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[29-Aug-2020 06:50:29 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[29-Aug-2020 06:50:29 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[29-Aug-2020 06:51:18 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[29-Aug-2020 06:51:18 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[29-Aug-2020 06:51:18 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 06:51:18 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 06:51:18 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 06:51:18 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 06:51:18 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[29-Aug-2020 06:51:18 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 06:51:18 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 06:51:18 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 06:51:18 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 06:51:18 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[29-Aug-2020 06:51:18 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[29-Aug-2020 06:51:18 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[29-Aug-2020 06:53:20 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[29-Aug-2020 06:53:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[29-Aug-2020 06:53:20 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 06:53:20 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 06:53:20 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 06:53:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 06:53:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[29-Aug-2020 06:53:20 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 06:53:20 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 06:53:20 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 06:53:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 06:53:20 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[29-Aug-2020 06:53:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[29-Aug-2020 06:53:20 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[29-Aug-2020 06:53:58 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[29-Aug-2020 06:53:58 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[29-Aug-2020 06:53:58 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 06:53:58 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 06:53:58 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 06:53:58 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 06:53:58 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[29-Aug-2020 06:53:58 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 06:53:58 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 06:53:58 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 06:53:58 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 06:53:58 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[29-Aug-2020 06:53:58 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[29-Aug-2020 06:53:58 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[29-Aug-2020 06:54:24 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/homeAPI.php on line 5
+[29-Aug-2020 06:54:24 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/homeAPI.php on line 5
+[29-Aug-2020 06:54:24 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/homeAPI.php on line 9
+[29-Aug-2020 06:54:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/homeAPI.php on line 9
+[29-Aug-2020 06:54:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[29-Aug-2020 06:54:24 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 06:54:24 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 06:54:24 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 06:54:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 06:54:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[29-Aug-2020 06:54:24 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 06:54:24 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 06:54:24 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 06:54:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 06:54:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[29-Aug-2020 06:54:24 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[29-Aug-2020 06:54:24 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[29-Aug-2020 06:54:29 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[29-Aug-2020 06:54:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[29-Aug-2020 06:54:29 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 06:54:29 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 06:54:29 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 06:54:29 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 06:54:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[29-Aug-2020 06:54:29 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 06:54:29 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 06:54:29 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 06:54:29 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 06:54:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[29-Aug-2020 06:54:29 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[29-Aug-2020 06:54:29 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[29-Aug-2020 10:22:09 America/New_York] PHP Notice:  Undefined index: package in /home/ironxpxj/healcura.irontin.com/c/v/nav.php on line 4
+[29-Aug-2020 10:22:09 America/New_York] PHP Notice:  Undefined index: name in /home/ironxpxj/healcura.irontin.com/c/v/nav.php on line 370
+[29-Aug-2020 10:22:09 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[29-Aug-2020 10:22:09 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[29-Aug-2020 10:22:09 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 10:22:09 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 10:22:09 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 10:22:09 America/New_York] PHP Notice:  Undefined index: id in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 10:22:09 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 10:22:09 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[29-Aug-2020 10:22:09 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 10:22:09 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 10:22:09 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 10:22:09 America/New_York] PHP Notice:  Undefined index: id in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 10:22:09 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 10:22:09 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[29-Aug-2020 10:22:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[29-Aug-2020 10:22:09 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ironxpxj/healcura.irontin.com/c/v/nav.php:29) in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 6
+[29-Aug-2020 10:22:09 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[29-Aug-2020 16:06:00 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[29-Aug-2020 16:06:00 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[29-Aug-2020 16:06:00 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 16:06:00 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[29-Aug-2020 16:06:00 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 16:06:00 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[29-Aug-2020 16:06:00 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[29-Aug-2020 16:06:00 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 16:06:00 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[29-Aug-2020 16:06:00 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 16:06:00 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[29-Aug-2020 16:06:00 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[29-Aug-2020 16:06:00 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[29-Aug-2020 16:06:00 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[31-Aug-2020 02:46:09 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[31-Aug-2020 02:46:09 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[31-Aug-2020 02:46:09 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[31-Aug-2020 02:46:09 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[31-Aug-2020 02:46:09 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[31-Aug-2020 02:46:09 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[31-Aug-2020 02:46:09 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[31-Aug-2020 02:46:09 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[31-Aug-2020 02:46:09 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[31-Aug-2020 02:46:09 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[31-Aug-2020 02:46:09 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[31-Aug-2020 02:46:09 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[31-Aug-2020 02:46:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 02:46:09 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[31-Aug-2020 02:46:33 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[31-Aug-2020 02:46:33 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[31-Aug-2020 02:46:33 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[31-Aug-2020 02:46:33 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[31-Aug-2020 02:46:33 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[31-Aug-2020 02:46:33 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[31-Aug-2020 02:46:33 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[31-Aug-2020 02:46:33 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[31-Aug-2020 02:46:33 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[31-Aug-2020 02:46:33 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[31-Aug-2020 02:46:33 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[31-Aug-2020 02:46:33 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[31-Aug-2020 02:46:33 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 02:46:33 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[31-Aug-2020 02:50:15 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[31-Aug-2020 02:50:15 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[31-Aug-2020 02:50:15 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[31-Aug-2020 02:50:15 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[31-Aug-2020 02:50:15 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[31-Aug-2020 02:50:15 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[31-Aug-2020 02:50:15 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[31-Aug-2020 02:50:15 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[31-Aug-2020 02:50:15 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[31-Aug-2020 02:50:15 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[31-Aug-2020 02:50:15 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[31-Aug-2020 02:50:15 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[31-Aug-2020 02:50:15 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 02:50:15 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[31-Aug-2020 03:05:49 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[31-Aug-2020 03:05:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 49
+[31-Aug-2020 03:05:49 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[31-Aug-2020 03:05:49 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 112
+[31-Aug-2020 03:05:49 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[31-Aug-2020 03:05:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 120
+[31-Aug-2020 03:05:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 121
+[31-Aug-2020 03:05:49 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[31-Aug-2020 03:05:49 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/home/home.php on line 146
+[31-Aug-2020 03:05:49 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[31-Aug-2020 03:05:49 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 154
+[31-Aug-2020 03:05:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/home/home.php on line 155
+[31-Aug-2020 03:05:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 03:05:49 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[31-Aug-2020 03:13:16 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 03:13:16 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[31-Aug-2020 03:14:22 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 03:14:22 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[31-Aug-2020 03:15:46 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 03:15:46 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[31-Aug-2020 04:06:16 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 04:06:16 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[31-Aug-2020 04:07:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 04:07:09 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[31-Aug-2020 04:32:34 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 04:32:34 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[31-Aug-2020 04:37:39 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 04:37:39 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[31-Aug-2020 04:41:03 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 04:41:03 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[31-Aug-2020 04:43:14 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 04:43:14 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[31-Aug-2020 04:44:23 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 04:44:23 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[31-Aug-2020 05:30:02 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 05:30:02 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[02-Sep-2020 07:41:54 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[02-Sep-2020 07:41:54 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[03-Sep-2020 06:10:54 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Sep-2020 06:10:54 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[03-Sep-2020 06:12:17 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Sep-2020 06:12:17 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[03-Sep-2020 07:03:16 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Sep-2020 07:03:16 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[03-Sep-2020 07:04:55 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Sep-2020 07:04:55 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[03-Sep-2020 07:05:55 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Sep-2020 07:05:55 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[03-Sep-2020 07:08:17 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Sep-2020 07:08:17 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137

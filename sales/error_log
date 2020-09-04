@@ -1,0 +1,885 @@
+[26-Jul-2020 17:36:32 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/nav_top.php on line 1
+[26-Jul-2020 17:36:32 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/health.irontin.com/sales/sales.php on line 100
+[26-Jul-2020 17:36:32 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/health.irontin.com/sales/sales.php on line 125
+[26-Jul-2020 17:36:32 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/health.irontin.com/sales/sales.php on line 175
+[26-Jul-2020 17:36:32 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/health.irontin.com/sales/sales.php on line 184
+[26-Jul-2020 17:36:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/sales/sales.php on line 184
+[26-Jul-2020 17:36:32 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/sales/sales.php on line 207
+[26-Jul-2020 17:36:32 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/sales/sales.php on line 207
+[26-Jul-2020 17:36:32 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/health.irontin.com/sales/sales.php on line 213
+[26-Jul-2020 17:36:32 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/health.irontin.com/sales/sales.php on line 221
+[26-Jul-2020 17:36:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/sales/sales.php on line 221
+[26-Jul-2020 17:36:32 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/sales/sales.php on line 293
+[26-Jul-2020 17:36:32 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/sales/sales.php on line 293
+[26-Jul-2020 17:36:32 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/sales/sales.php on line 293
+[26-Jul-2020 18:34:57 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/nav_top.php on line 1
+[26-Jul-2020 18:34:57 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/health.irontin.com/sales/sales.php on line 100
+[26-Jul-2020 18:34:57 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/health.irontin.com/sales/sales.php on line 125
+[26-Jul-2020 18:34:57 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/health.irontin.com/sales/sales.php on line 175
+[26-Jul-2020 18:34:57 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/health.irontin.com/sales/sales.php on line 184
+[26-Jul-2020 18:34:57 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/sales/sales.php on line 184
+[26-Jul-2020 18:34:57 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/sales/sales.php on line 207
+[26-Jul-2020 18:34:57 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/sales/sales.php on line 207
+[26-Jul-2020 18:34:57 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/health.irontin.com/sales/sales.php on line 213
+[26-Jul-2020 18:34:57 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/health.irontin.com/sales/sales.php on line 221
+[26-Jul-2020 18:34:57 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/sales/sales.php on line 221
+[26-Jul-2020 18:34:57 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/sales/sales.php on line 293
+[26-Jul-2020 18:34:57 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/sales/sales.php on line 293
+[26-Jul-2020 18:34:57 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/sales/sales.php on line 293
+[26-Jul-2020 18:35:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/nav_top.php on line 1
+[26-Jul-2020 18:35:04 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/health.irontin.com/sales/sales.php on line 100
+[26-Jul-2020 18:35:04 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/health.irontin.com/sales/sales.php on line 125
+[26-Jul-2020 18:35:04 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/health.irontin.com/sales/sales.php on line 175
+[26-Jul-2020 18:35:04 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/health.irontin.com/sales/sales.php on line 184
+[26-Jul-2020 18:35:04 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/sales/sales.php on line 184
+[26-Jul-2020 18:35:04 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/sales/sales.php on line 207
+[26-Jul-2020 18:35:04 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/sales/sales.php on line 207
+[26-Jul-2020 18:35:04 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/health.irontin.com/sales/sales.php on line 213
+[26-Jul-2020 18:35:04 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/health.irontin.com/sales/sales.php on line 221
+[26-Jul-2020 18:35:04 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/sales/sales.php on line 221
+[26-Jul-2020 18:35:04 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/sales/sales.php on line 293
+[26-Jul-2020 18:35:04 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/sales/sales.php on line 293
+[26-Jul-2020 18:35:04 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/sales/sales.php on line 293
+[03-Aug-2020 08:42:39 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[03-Aug-2020 08:42:39 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[03-Aug-2020 08:42:39 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[03-Aug-2020 08:42:39 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[03-Aug-2020 08:42:39 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[03-Aug-2020 08:42:39 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[03-Aug-2020 08:42:39 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[03-Aug-2020 08:42:39 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[03-Aug-2020 08:42:39 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[03-Aug-2020 08:42:39 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[03-Aug-2020 08:42:39 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[03-Aug-2020 08:42:39 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[03-Aug-2020 08:42:39 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[03-Aug-2020 08:42:39 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[03-Aug-2020 08:42:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[03-Aug-2020 08:42:43 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[03-Aug-2020 08:42:43 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[03-Aug-2020 08:42:43 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[03-Aug-2020 08:42:43 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[03-Aug-2020 08:42:43 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[03-Aug-2020 08:42:43 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[03-Aug-2020 08:42:43 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[03-Aug-2020 08:42:43 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[03-Aug-2020 08:42:43 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[03-Aug-2020 08:42:43 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[03-Aug-2020 08:42:43 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[03-Aug-2020 08:42:43 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[03-Aug-2020 08:42:43 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[03-Aug-2020 08:42:47 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[03-Aug-2020 08:42:47 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[03-Aug-2020 08:42:47 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[03-Aug-2020 08:42:47 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[03-Aug-2020 08:42:47 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[03-Aug-2020 08:42:47 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[03-Aug-2020 08:42:47 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[03-Aug-2020 08:42:47 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[03-Aug-2020 08:42:47 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[03-Aug-2020 08:42:47 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[03-Aug-2020 08:42:47 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[03-Aug-2020 08:42:47 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[03-Aug-2020 08:42:47 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[03-Aug-2020 08:42:47 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[03-Aug-2020 08:43:14 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[03-Aug-2020 08:43:14 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 19
+[03-Aug-2020 08:43:14 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[03-Aug-2020 08:43:14 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[03-Aug-2020 08:43:14 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[03-Aug-2020 08:43:14 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[03-Aug-2020 08:43:14 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[03-Aug-2020 08:43:14 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[03-Aug-2020 08:43:14 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[03-Aug-2020 08:43:14 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[03-Aug-2020 08:43:14 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[03-Aug-2020 08:43:14 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[03-Aug-2020 08:43:14 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[03-Aug-2020 08:43:14 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[03-Aug-2020 08:43:14 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[03-Aug-2020 08:43:25 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[03-Aug-2020 08:43:25 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 19
+[03-Aug-2020 08:43:25 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[03-Aug-2020 08:43:25 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[03-Aug-2020 08:43:25 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[03-Aug-2020 08:43:25 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[03-Aug-2020 08:43:25 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[03-Aug-2020 08:43:25 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[03-Aug-2020 08:43:25 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[03-Aug-2020 08:43:25 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[03-Aug-2020 08:43:25 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[03-Aug-2020 08:43:25 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[03-Aug-2020 08:43:25 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[03-Aug-2020 08:43:25 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[03-Aug-2020 08:43:25 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[03-Aug-2020 17:51:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[03-Aug-2020 17:51:36 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[03-Aug-2020 17:51:36 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[03-Aug-2020 17:51:36 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[03-Aug-2020 17:51:36 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[03-Aug-2020 17:51:36 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[03-Aug-2020 17:51:36 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[03-Aug-2020 17:51:36 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[03-Aug-2020 17:51:36 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[03-Aug-2020 17:51:36 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[03-Aug-2020 17:51:36 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[03-Aug-2020 17:51:36 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[03-Aug-2020 17:51:36 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[03-Aug-2020 17:51:36 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[15-Aug-2020 14:12:02 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[15-Aug-2020 14:12:02 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[15-Aug-2020 14:12:02 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[15-Aug-2020 14:12:02 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[15-Aug-2020 14:12:02 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[15-Aug-2020 14:12:02 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[15-Aug-2020 14:12:02 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[15-Aug-2020 14:12:02 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[15-Aug-2020 14:12:02 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[15-Aug-2020 14:12:02 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[15-Aug-2020 14:12:02 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[15-Aug-2020 14:12:02 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[15-Aug-2020 14:12:02 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[15-Aug-2020 14:12:02 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[15-Aug-2020 14:12:25 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[15-Aug-2020 14:12:25 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[15-Aug-2020 14:12:25 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[15-Aug-2020 14:12:25 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[15-Aug-2020 14:12:25 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[15-Aug-2020 14:12:25 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[15-Aug-2020 14:12:25 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[15-Aug-2020 14:12:25 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[15-Aug-2020 14:12:25 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[15-Aug-2020 14:12:25 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[15-Aug-2020 14:12:25 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[15-Aug-2020 14:12:25 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[15-Aug-2020 14:12:25 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[15-Aug-2020 14:12:25 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[15-Aug-2020 14:12:32 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[15-Aug-2020 14:12:32 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[15-Aug-2020 14:12:32 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[15-Aug-2020 14:12:32 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[15-Aug-2020 14:12:32 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[15-Aug-2020 14:12:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[15-Aug-2020 14:12:32 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[15-Aug-2020 14:12:32 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[15-Aug-2020 14:12:32 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[15-Aug-2020 14:12:32 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[15-Aug-2020 14:12:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[15-Aug-2020 14:12:32 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[15-Aug-2020 14:12:32 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[15-Aug-2020 14:12:32 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[24-Aug-2020 20:57:00 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[24-Aug-2020 20:57:00 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[24-Aug-2020 20:57:00 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[24-Aug-2020 20:57:00 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[24-Aug-2020 20:57:00 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[24-Aug-2020 20:57:00 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[24-Aug-2020 20:57:00 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[24-Aug-2020 20:57:00 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[24-Aug-2020 20:57:00 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[24-Aug-2020 20:57:00 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[24-Aug-2020 20:57:00 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[24-Aug-2020 20:57:00 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[24-Aug-2020 20:57:00 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[24-Aug-2020 20:57:00 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[24-Aug-2020 21:33:29 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[24-Aug-2020 21:33:29 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[24-Aug-2020 21:33:29 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[24-Aug-2020 21:33:29 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[24-Aug-2020 21:33:29 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[24-Aug-2020 21:33:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[24-Aug-2020 21:33:29 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[24-Aug-2020 21:33:29 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[24-Aug-2020 21:33:29 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[24-Aug-2020 21:33:29 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[24-Aug-2020 21:33:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[24-Aug-2020 21:33:29 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[24-Aug-2020 21:33:29 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[24-Aug-2020 21:33:29 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:07:22 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[25-Aug-2020 20:07:22 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[25-Aug-2020 20:07:22 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[25-Aug-2020 20:07:22 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[25-Aug-2020 20:07:22 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[25-Aug-2020 20:07:22 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[25-Aug-2020 20:07:22 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[25-Aug-2020 20:07:22 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[25-Aug-2020 20:07:22 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[25-Aug-2020 20:07:22 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[25-Aug-2020 20:07:22 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[25-Aug-2020 20:07:22 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:07:22 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:07:22 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:08:25 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[25-Aug-2020 20:08:25 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[25-Aug-2020 20:08:25 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[25-Aug-2020 20:08:25 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[25-Aug-2020 20:08:25 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[25-Aug-2020 20:08:25 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[25-Aug-2020 20:08:25 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[25-Aug-2020 20:08:25 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[25-Aug-2020 20:08:25 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[25-Aug-2020 20:08:25 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[25-Aug-2020 20:08:25 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[25-Aug-2020 20:08:25 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:08:25 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:08:25 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:08:56 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[25-Aug-2020 20:08:56 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[25-Aug-2020 20:08:56 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[25-Aug-2020 20:08:56 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[25-Aug-2020 20:08:56 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[25-Aug-2020 20:08:56 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[25-Aug-2020 20:08:56 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[25-Aug-2020 20:08:56 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[25-Aug-2020 20:08:56 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[25-Aug-2020 20:08:56 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[25-Aug-2020 20:08:56 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[25-Aug-2020 20:08:56 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:08:56 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:08:56 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:10:21 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[25-Aug-2020 20:10:21 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[25-Aug-2020 20:10:21 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[25-Aug-2020 20:10:21 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[25-Aug-2020 20:10:21 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[25-Aug-2020 20:10:21 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[25-Aug-2020 20:10:21 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[25-Aug-2020 20:10:21 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[25-Aug-2020 20:10:21 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[25-Aug-2020 20:10:21 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[25-Aug-2020 20:10:21 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[25-Aug-2020 20:10:21 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:10:21 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:10:21 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:10:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[25-Aug-2020 20:10:43 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[25-Aug-2020 20:10:43 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[25-Aug-2020 20:10:43 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[25-Aug-2020 20:10:43 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[25-Aug-2020 20:10:43 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[25-Aug-2020 20:10:43 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[25-Aug-2020 20:10:43 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[25-Aug-2020 20:10:43 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[25-Aug-2020 20:10:43 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[25-Aug-2020 20:10:43 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[25-Aug-2020 20:10:43 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:10:43 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:10:43 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:12:57 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[25-Aug-2020 20:12:57 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[25-Aug-2020 20:12:57 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[25-Aug-2020 20:12:57 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[25-Aug-2020 20:12:57 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[25-Aug-2020 20:12:57 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[25-Aug-2020 20:12:57 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[25-Aug-2020 20:12:57 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[25-Aug-2020 20:12:57 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[25-Aug-2020 20:12:57 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[25-Aug-2020 20:12:57 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[25-Aug-2020 20:12:57 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:12:57 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:12:57 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:14:38 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[25-Aug-2020 20:14:38 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[25-Aug-2020 20:14:38 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[25-Aug-2020 20:14:38 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[25-Aug-2020 20:14:38 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[25-Aug-2020 20:14:38 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[25-Aug-2020 20:14:38 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[25-Aug-2020 20:14:38 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[25-Aug-2020 20:14:38 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[25-Aug-2020 20:14:38 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[25-Aug-2020 20:14:38 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[25-Aug-2020 20:14:38 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:14:38 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:14:38 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:19:13 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[25-Aug-2020 20:19:13 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[25-Aug-2020 20:19:13 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[25-Aug-2020 20:19:13 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[25-Aug-2020 20:19:13 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[25-Aug-2020 20:19:13 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[25-Aug-2020 20:19:13 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[25-Aug-2020 20:19:13 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[25-Aug-2020 20:19:13 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[25-Aug-2020 20:19:13 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[25-Aug-2020 20:19:13 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[25-Aug-2020 20:19:13 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:19:13 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:19:13 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:19:42 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[25-Aug-2020 20:19:42 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[25-Aug-2020 20:19:42 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[25-Aug-2020 20:19:42 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[25-Aug-2020 20:19:42 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[25-Aug-2020 20:19:42 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[25-Aug-2020 20:19:42 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[25-Aug-2020 20:19:42 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[25-Aug-2020 20:19:42 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[25-Aug-2020 20:19:42 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[25-Aug-2020 20:19:42 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[25-Aug-2020 20:19:42 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:19:42 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[25-Aug-2020 20:19:42 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:31:08 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:31:08 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[26-Aug-2020 17:31:08 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[26-Aug-2020 17:31:08 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[26-Aug-2020 17:31:08 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[26-Aug-2020 17:31:08 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[26-Aug-2020 17:31:08 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:31:08 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:31:08 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[26-Aug-2020 17:31:08 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[26-Aug-2020 17:31:08 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[26-Aug-2020 17:31:08 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:31:08 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:31:08 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:37:14 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:37:14 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[26-Aug-2020 17:37:14 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[26-Aug-2020 17:37:14 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[26-Aug-2020 17:37:14 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[26-Aug-2020 17:37:14 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[26-Aug-2020 17:37:14 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:37:14 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:37:14 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[26-Aug-2020 17:37:14 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[26-Aug-2020 17:37:14 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[26-Aug-2020 17:37:14 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:37:14 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:37:14 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:37:16 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:37:16 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 100
+[26-Aug-2020 17:37:16 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 125
+[26-Aug-2020 17:37:16 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 175
+[26-Aug-2020 17:37:16 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[26-Aug-2020 17:37:16 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[26-Aug-2020 17:37:16 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:37:16 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:37:16 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 213
+[26-Aug-2020 17:37:16 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[26-Aug-2020 17:37:16 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[26-Aug-2020 17:37:16 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:37:16 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:37:16 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:37:21 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:37:21 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:37:21 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:37:21 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:37:21 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:37:21 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:37:34 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:37:34 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 19
+[26-Aug-2020 17:37:34 America/New_York] PHP Notice:  Undefined variable: sprice in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 82
+[26-Aug-2020 17:37:34 America/New_York] PHP Notice:  Undefined variable: qty3 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 84
+[26-Aug-2020 17:37:34 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:37:34 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:37:34 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:37:34 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:37:34 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:38:47 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:38:47 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 19
+[26-Aug-2020 17:38:47 America/New_York] PHP Warning:  A non-numeric value encountered in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 40
+[26-Aug-2020 17:38:47 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:38:47 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:38:47 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:38:47 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:38:47 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:40:15 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:40:15 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:40:15 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:40:15 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:40:15 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:40:15 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:40:27 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:40:27 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 19
+[26-Aug-2020 17:40:27 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:40:27 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:40:27 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:40:27 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:40:27 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:40:44 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:40:44 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 19
+[26-Aug-2020 17:40:44 America/New_York] PHP Notice:  Undefined variable: sprice in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 82
+[26-Aug-2020 17:40:44 America/New_York] PHP Notice:  Undefined variable: qty3 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 84
+[26-Aug-2020 17:40:44 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 103
+[26-Aug-2020 17:40:44 America/New_York] PHP Notice:  Undefined variable: tot in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 113
+[26-Aug-2020 17:40:44 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[26-Aug-2020 17:40:44 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:40:44 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:40:44 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[26-Aug-2020 17:40:44 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:40:44 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:40:44 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:41:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:41:04 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 19
+[26-Aug-2020 17:41:04 America/New_York] PHP Notice:  Undefined variable: sprice in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 82
+[26-Aug-2020 17:41:04 America/New_York] PHP Notice:  Undefined variable: qty3 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 84
+[26-Aug-2020 17:41:04 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 103
+[26-Aug-2020 17:41:04 America/New_York] PHP Notice:  Undefined variable: tot in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 113
+[26-Aug-2020 17:41:04 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 184
+[26-Aug-2020 17:41:04 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:41:04 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:41:04 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 221
+[26-Aug-2020 17:41:04 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:41:04 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:41:04 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:46:18 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:46:18 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:46:18 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:46:18 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:46:18 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:46:18 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:47:42 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:47:42 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 19
+[26-Aug-2020 17:47:42 America/New_York] PHP Notice:  Undefined variable: sprice in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 82
+[26-Aug-2020 17:47:42 America/New_York] PHP Notice:  Undefined variable: qty3 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 84
+[26-Aug-2020 17:47:42 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:47:42 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 207
+[26-Aug-2020 17:47:42 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:47:42 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:47:42 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 293
+[26-Aug-2020 17:49:05 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:49:05 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 208
+[26-Aug-2020 17:49:05 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 208
+[26-Aug-2020 17:49:05 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 294
+[26-Aug-2020 17:49:05 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 294
+[26-Aug-2020 17:49:05 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 294
+[26-Aug-2020 17:49:15 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:49:15 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 19
+[26-Aug-2020 17:49:15 America/New_York] PHP Notice:  Undefined variable: sprice in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 83
+[26-Aug-2020 17:49:15 America/New_York] PHP Notice:  Undefined variable: qty3 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 85
+[26-Aug-2020 17:49:15 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 208
+[26-Aug-2020 17:49:15 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 208
+[26-Aug-2020 17:49:15 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 294
+[26-Aug-2020 17:49:15 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 294
+[26-Aug-2020 17:49:15 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 294
+[26-Aug-2020 17:51:14 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:51:14 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 19
+[26-Aug-2020 17:51:14 America/New_York] PHP Notice:  Undefined variable: sprice in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 83
+[26-Aug-2020 17:51:14 America/New_York] PHP Notice:  Undefined variable: qty3 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 85
+[26-Aug-2020 17:51:14 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 208
+[26-Aug-2020 17:51:14 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 208
+[26-Aug-2020 17:51:14 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 294
+[26-Aug-2020 17:51:14 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 294
+[26-Aug-2020 17:51:14 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 294
+[26-Aug-2020 17:52:48 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:52:48 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 217
+[26-Aug-2020 17:52:48 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 217
+[26-Aug-2020 17:52:48 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 303
+[26-Aug-2020 17:52:48 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 303
+[26-Aug-2020 17:52:48 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 303
+[26-Aug-2020 17:53:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:53:04 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 28
+[26-Aug-2020 17:53:04 America/New_York] PHP Notice:  Undefined variable: sprice in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 92
+[26-Aug-2020 17:53:04 America/New_York] PHP Notice:  Undefined variable: qty3 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 94
+[26-Aug-2020 17:53:04 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 217
+[26-Aug-2020 17:53:04 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 217
+[26-Aug-2020 17:53:04 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 303
+[26-Aug-2020 17:53:04 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 303
+[26-Aug-2020 17:53:04 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 303
+[26-Aug-2020 17:53:39 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:53:39 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 217
+[26-Aug-2020 17:53:39 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 217
+[26-Aug-2020 17:53:39 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 303
+[26-Aug-2020 17:53:39 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 303
+[26-Aug-2020 17:53:39 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 303
+[26-Aug-2020 17:54:08 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:54:08 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 28
+[26-Aug-2020 17:54:08 America/New_York] PHP Notice:  Undefined variable: sprice in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 92
+[26-Aug-2020 17:54:08 America/New_York] PHP Notice:  Undefined variable: qty3 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 94
+[26-Aug-2020 17:54:08 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 217
+[26-Aug-2020 17:54:08 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 217
+[26-Aug-2020 17:54:08 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 303
+[26-Aug-2020 17:54:08 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 303
+[26-Aug-2020 17:54:08 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 303
+[26-Aug-2020 17:54:22 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:54:22 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 217
+[26-Aug-2020 17:54:22 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 217
+[26-Aug-2020 17:54:22 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 303
+[26-Aug-2020 17:54:22 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 303
+[26-Aug-2020 17:54:22 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 303
+[26-Aug-2020 17:55:00 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:55:00 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[26-Aug-2020 17:55:00 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[26-Aug-2020 17:55:00 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[26-Aug-2020 17:55:00 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[26-Aug-2020 17:55:00 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[26-Aug-2020 17:55:16 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:55:16 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 23
+[26-Aug-2020 17:55:16 America/New_York] PHP Notice:  Undefined variable: sprice in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 87
+[26-Aug-2020 17:55:16 America/New_York] PHP Notice:  Undefined variable: qty3 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 89
+[26-Aug-2020 17:55:16 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[26-Aug-2020 17:55:16 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[26-Aug-2020 17:55:16 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[26-Aug-2020 17:55:16 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[26-Aug-2020 17:55:16 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[26-Aug-2020 17:55:24 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[26-Aug-2020 17:55:24 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[26-Aug-2020 17:55:24 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[26-Aug-2020 17:55:24 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[26-Aug-2020 17:55:24 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[26-Aug-2020 17:55:24 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:51:29 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[29-Aug-2020 06:51:29 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 105
+[29-Aug-2020 06:51:29 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 130
+[29-Aug-2020 06:51:29 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 180
+[29-Aug-2020 06:51:29 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[29-Aug-2020 06:51:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[29-Aug-2020 06:51:29 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:51:29 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:51:29 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 218
+[29-Aug-2020 06:51:29 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[29-Aug-2020 06:51:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[29-Aug-2020 06:51:29 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:51:29 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:51:29 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:51:39 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[29-Aug-2020 06:51:39 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 23
+[29-Aug-2020 06:51:39 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 105
+[29-Aug-2020 06:51:39 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 130
+[29-Aug-2020 06:51:39 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 180
+[29-Aug-2020 06:51:39 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[29-Aug-2020 06:51:39 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[29-Aug-2020 06:51:39 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:51:39 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:51:39 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 218
+[29-Aug-2020 06:51:39 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[29-Aug-2020 06:51:39 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[29-Aug-2020 06:51:39 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:51:39 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:51:39 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:51:47 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[29-Aug-2020 06:51:47 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 23
+[29-Aug-2020 06:51:47 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 105
+[29-Aug-2020 06:51:47 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 130
+[29-Aug-2020 06:51:47 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 180
+[29-Aug-2020 06:51:47 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[29-Aug-2020 06:51:47 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[29-Aug-2020 06:51:47 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:51:47 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:51:47 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 218
+[29-Aug-2020 06:51:47 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[29-Aug-2020 06:51:47 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[29-Aug-2020 06:51:47 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:51:47 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:51:47 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:51:56 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[29-Aug-2020 06:51:56 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 23
+[29-Aug-2020 06:51:56 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 105
+[29-Aug-2020 06:51:56 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 130
+[29-Aug-2020 06:51:56 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 180
+[29-Aug-2020 06:51:56 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[29-Aug-2020 06:51:56 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[29-Aug-2020 06:51:56 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:51:56 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:51:56 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 218
+[29-Aug-2020 06:51:56 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[29-Aug-2020 06:51:56 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[29-Aug-2020 06:51:56 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:51:56 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:51:56 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:52:10 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[29-Aug-2020 06:52:10 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 23
+[29-Aug-2020 06:52:10 America/New_York] PHP Notice:  Undefined offset: 1 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:52:10 America/New_York] PHP Notice:  Undefined offset: 2 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:52:10 America/New_York] PHP Notice:  Undefined offset: 3 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:52:10 America/New_York] PHP Notice:  Undefined offset: 4 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:52:10 America/New_York] PHP Notice:  Undefined offset: 5 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:52:10 America/New_York] PHP Notice:  Undefined offset: 6 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:52:10 America/New_York] PHP Notice:  Undefined offset: 7 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:52:10 America/New_York] PHP Notice:  Undefined offset: 8 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:52:10 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 105
+[29-Aug-2020 06:52:10 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 130
+[29-Aug-2020 06:52:10 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 180
+[29-Aug-2020 06:52:10 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[29-Aug-2020 06:52:10 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[29-Aug-2020 06:52:10 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:52:10 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:52:10 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 218
+[29-Aug-2020 06:52:10 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[29-Aug-2020 06:52:10 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[29-Aug-2020 06:52:10 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:52:10 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:52:10 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:52:13 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[29-Aug-2020 06:52:13 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:52:13 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:52:13 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:52:13 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:52:13 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:52:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[29-Aug-2020 06:52:19 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 23
+[29-Aug-2020 06:52:19 America/New_York] PHP Notice:  Undefined variable: sprice in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 87
+[29-Aug-2020 06:52:19 America/New_York] PHP Notice:  Undefined variable: qty3 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 89
+[29-Aug-2020 06:52:19 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:52:19 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:52:19 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:52:19 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:52:19 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:52:47 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[29-Aug-2020 06:52:47 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:52:47 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:52:47 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:52:47 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:52:47 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:53:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[29-Aug-2020 06:53:04 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 23
+[29-Aug-2020 06:53:04 America/New_York] PHP Notice:  Undefined offset: 1 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:04 America/New_York] PHP Notice:  Undefined offset: 2 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:04 America/New_York] PHP Notice:  Undefined offset: 3 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:04 America/New_York] PHP Notice:  Undefined offset: 4 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:04 America/New_York] PHP Notice:  Undefined offset: 5 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:04 America/New_York] PHP Notice:  Undefined offset: 6 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:04 America/New_York] PHP Notice:  Undefined offset: 7 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:04 America/New_York] PHP Notice:  Undefined offset: 8 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:04 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:53:04 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:53:04 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:53:04 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:53:04 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:53:14 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[29-Aug-2020 06:53:14 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 23
+[29-Aug-2020 06:53:14 America/New_York] PHP Notice:  Undefined offset: 1 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:14 America/New_York] PHP Notice:  Undefined offset: 2 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:14 America/New_York] PHP Notice:  Undefined offset: 3 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:14 America/New_York] PHP Notice:  Undefined offset: 4 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:14 America/New_York] PHP Notice:  Undefined offset: 5 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:14 America/New_York] PHP Notice:  Undefined offset: 6 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:14 America/New_York] PHP Notice:  Undefined offset: 7 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:14 America/New_York] PHP Notice:  Undefined offset: 8 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:14 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:53:14 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:53:14 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:53:14 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:53:14 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:53:30 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[29-Aug-2020 06:53:30 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 105
+[29-Aug-2020 06:53:30 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 130
+[29-Aug-2020 06:53:30 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 180
+[29-Aug-2020 06:53:30 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[29-Aug-2020 06:53:30 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[29-Aug-2020 06:53:30 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:53:30 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:53:30 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 218
+[29-Aug-2020 06:53:30 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[29-Aug-2020 06:53:30 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[29-Aug-2020 06:53:30 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:53:30 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:53:30 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:53:33 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[29-Aug-2020 06:53:33 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:53:33 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:53:33 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:53:33 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:53:33 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:53:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[29-Aug-2020 06:53:43 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 23
+[29-Aug-2020 06:53:43 America/New_York] PHP Notice:  Undefined offset: 1 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:43 America/New_York] PHP Notice:  Undefined offset: 2 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:43 America/New_York] PHP Notice:  Undefined offset: 3 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:43 America/New_York] PHP Notice:  Undefined offset: 4 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:43 America/New_York] PHP Notice:  Undefined offset: 5 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:43 America/New_York] PHP Notice:  Undefined offset: 6 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:43 America/New_York] PHP Notice:  Undefined offset: 7 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:43 America/New_York] PHP Notice:  Undefined offset: 8 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:43 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:53:43 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:53:43 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:53:43 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:53:43 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:53:54 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[29-Aug-2020 06:53:54 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 23
+[29-Aug-2020 06:53:54 America/New_York] PHP Notice:  Undefined offset: 1 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:54 America/New_York] PHP Notice:  Undefined offset: 2 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:54 America/New_York] PHP Notice:  Undefined offset: 3 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:54 America/New_York] PHP Notice:  Undefined offset: 4 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:54 America/New_York] PHP Notice:  Undefined offset: 5 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:54 America/New_York] PHP Notice:  Undefined offset: 6 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:54 America/New_York] PHP Notice:  Undefined offset: 7 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:54 America/New_York] PHP Notice:  Undefined offset: 8 in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 25
+[29-Aug-2020 06:53:54 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:53:54 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[29-Aug-2020 06:53:54 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:53:54 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[29-Aug-2020 06:53:54 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[31-Aug-2020 02:46:53 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[31-Aug-2020 02:46:53 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 105
+[31-Aug-2020 02:46:53 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 130
+[31-Aug-2020 02:46:53 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 180
+[31-Aug-2020 02:46:53 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[31-Aug-2020 02:46:53 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[31-Aug-2020 02:46:53 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 02:46:53 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 02:46:53 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 218
+[31-Aug-2020 02:46:53 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[31-Aug-2020 02:46:53 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[31-Aug-2020 02:46:53 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[31-Aug-2020 02:46:53 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[31-Aug-2020 02:46:53 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[31-Aug-2020 02:48:41 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[31-Aug-2020 02:48:41 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 02:48:41 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 02:48:41 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[31-Aug-2020 02:48:41 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[31-Aug-2020 02:48:41 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[31-Aug-2020 02:48:44 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[31-Aug-2020 02:48:44 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 02:48:44 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 02:48:44 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[31-Aug-2020 02:48:44 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[31-Aug-2020 02:48:44 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[31-Aug-2020 04:54:07 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[31-Aug-2020 04:54:07 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 105
+[31-Aug-2020 04:54:07 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 130
+[31-Aug-2020 04:54:07 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 180
+[31-Aug-2020 04:54:07 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[31-Aug-2020 04:54:07 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[31-Aug-2020 04:54:07 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 04:54:07 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 04:54:07 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 218
+[31-Aug-2020 04:54:07 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[31-Aug-2020 04:54:07 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[31-Aug-2020 04:54:07 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[31-Aug-2020 04:54:07 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[31-Aug-2020 04:54:07 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 298
+[31-Aug-2020 05:04:46 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[31-Aug-2020 05:04:46 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 105
+[31-Aug-2020 05:04:46 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 130
+[31-Aug-2020 05:04:46 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 180
+[31-Aug-2020 05:04:46 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[31-Aug-2020 05:04:46 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[31-Aug-2020 05:04:46 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 05:04:46 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 05:04:46 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 218
+[31-Aug-2020 05:04:46 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[31-Aug-2020 05:04:46 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[31-Aug-2020 05:04:46 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:04:46 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:04:46 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:09:29 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[31-Aug-2020 05:09:29 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 105
+[31-Aug-2020 05:09:29 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 130
+[31-Aug-2020 05:09:29 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 180
+[31-Aug-2020 05:09:29 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[31-Aug-2020 05:09:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[31-Aug-2020 05:09:29 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 05:09:29 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 05:09:29 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 218
+[31-Aug-2020 05:09:29 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[31-Aug-2020 05:09:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[31-Aug-2020 05:09:29 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:09:29 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:09:29 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:10:05 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[31-Aug-2020 05:10:05 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 105
+[31-Aug-2020 05:10:05 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 130
+[31-Aug-2020 05:10:05 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 180
+[31-Aug-2020 05:10:05 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[31-Aug-2020 05:10:05 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[31-Aug-2020 05:10:05 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 05:10:05 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 05:10:05 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 218
+[31-Aug-2020 05:10:05 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[31-Aug-2020 05:10:05 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[31-Aug-2020 05:10:05 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:10:05 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:10:05 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:12:01 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[31-Aug-2020 05:12:01 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 105
+[31-Aug-2020 05:12:01 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 130
+[31-Aug-2020 05:12:01 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 180
+[31-Aug-2020 05:12:01 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[31-Aug-2020 05:12:01 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[31-Aug-2020 05:12:01 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 05:12:01 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 05:12:01 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 218
+[31-Aug-2020 05:12:01 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[31-Aug-2020 05:12:01 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[31-Aug-2020 05:12:01 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:12:01 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:12:01 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:13:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[31-Aug-2020 05:13:49 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 105
+[31-Aug-2020 05:13:49 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 130
+[31-Aug-2020 05:13:49 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 180
+[31-Aug-2020 05:13:49 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[31-Aug-2020 05:13:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[31-Aug-2020 05:13:49 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 05:13:49 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 05:13:49 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 218
+[31-Aug-2020 05:13:49 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[31-Aug-2020 05:13:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[31-Aug-2020 05:13:49 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:13:49 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:13:49 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:16:32 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[31-Aug-2020 05:16:32 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 105
+[31-Aug-2020 05:16:32 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 130
+[31-Aug-2020 05:16:32 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 180
+[31-Aug-2020 05:16:32 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[31-Aug-2020 05:16:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[31-Aug-2020 05:16:32 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 05:16:32 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 05:16:32 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 218
+[31-Aug-2020 05:16:32 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[31-Aug-2020 05:16:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[31-Aug-2020 05:16:32 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:16:32 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:16:32 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:16:48 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[31-Aug-2020 05:16:48 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 23
+[31-Aug-2020 05:16:48 America/New_York] PHP Warning:  A non-numeric value encountered in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 62
+[31-Aug-2020 05:16:48 America/New_York] PHP Warning:  A non-numeric value encountered in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 63
+[31-Aug-2020 05:16:48 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 105
+[31-Aug-2020 05:16:48 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 130
+[31-Aug-2020 05:16:48 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 180
+[31-Aug-2020 05:16:48 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[31-Aug-2020 05:16:48 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[31-Aug-2020 05:16:48 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 05:16:48 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 05:16:48 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 218
+[31-Aug-2020 05:16:48 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[31-Aug-2020 05:16:48 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[31-Aug-2020 05:16:48 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:16:48 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:16:48 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:17:51 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[31-Aug-2020 05:17:51 America/New_York] PHP Notice:  Undefined index: unit in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 23
+[31-Aug-2020 05:17:51 America/New_York] PHP Warning:  A non-numeric value encountered in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 62
+[31-Aug-2020 05:17:51 America/New_York] PHP Warning:  A non-numeric value encountered in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 63
+[31-Aug-2020 05:17:51 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 105
+[31-Aug-2020 05:17:51 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 130
+[31-Aug-2020 05:17:51 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 180
+[31-Aug-2020 05:17:51 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[31-Aug-2020 05:17:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[31-Aug-2020 05:17:51 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 05:17:51 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 05:17:51 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 218
+[31-Aug-2020 05:17:51 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[31-Aug-2020 05:17:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[31-Aug-2020 05:17:51 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:17:51 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:17:51 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:17:57 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[31-Aug-2020 05:17:57 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 05:17:57 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[31-Aug-2020 05:17:57 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:17:57 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[31-Aug-2020 05:17:57 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[03-Sep-2020 06:12:13 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/nav_top.php on line 1
+[03-Sep-2020 06:12:13 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 105
+[03-Sep-2020 06:12:13 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 130
+[03-Sep-2020 06:12:13 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 180
+[03-Sep-2020 06:12:13 America/New_York] PHP Notice:  Undefined variable: ret in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[03-Sep-2020 06:12:13 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 189
+[03-Sep-2020 06:12:13 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[03-Sep-2020 06:12:13 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 212
+[03-Sep-2020 06:12:13 America/New_York] PHP Notice:  Undefined index: token in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 218
+[03-Sep-2020 06:12:13 America/New_York] PHP Notice:  Undefined variable: re in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[03-Sep-2020 06:12:13 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 226
+[03-Sep-2020 06:12:13 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[03-Sep-2020 06:12:13 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320
+[03-Sep-2020 06:12:13 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/sales/sales.php on line 320

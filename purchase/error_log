@@ -1,0 +1,25 @@
+[26-Jul-2020 17:53:52 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 17:53:52 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/health.irontin.com/c/db/connection.php on line 44
+[26-Jul-2020 18:35:13 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 18:35:13 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/health.irontin.com/c/db/connection.php on line 44
+[26-Jul-2020 18:36:30 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 18:36:30 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/health.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 20:57:18 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 20:57:18 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[25-Aug-2020 20:19:56 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:19:56 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[26-Aug-2020 17:55:40 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[26-Aug-2020 17:55:40 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[26-Aug-2020 17:56:23 America/New_York] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/purchase/purchase_list_toSupplier.php on line 12
+[26-Aug-2020 17:56:23 America/New_York] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/purchase/purchase_list_toSupplier.php on line 12
+[26-Aug-2020 17:56:23 America/New_York] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/purchase/purchase_list_toSupplier.php on line 12
+[26-Aug-2020 17:56:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/ironxpxj/healcura.irontin.com/purchase/purchase_list_toSupplier.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ironxpxj/healcura.irontin.com/purchase/purchase_list_toSupplier.php on line 13
+[26-Aug-2020 17:56:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[26-Aug-2020 17:56:35 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[26-Aug-2020 17:58:11 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[26-Aug-2020 17:58:11 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[03-Sep-2020 06:12:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Sep-2020 06:12:19 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57

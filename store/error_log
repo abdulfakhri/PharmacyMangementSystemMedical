@@ -1,0 +1,424 @@
+[14-Sep-2019 11:38:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'abfa_rgu'@'localhost' (using password: YES) in /home/bnsznyem/public_html/store/connection.php on line 9
+[14-Sep-2019 11:38:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bnsznyem/public_html/store/store.php on line 11
+[14-Sep-2019 11:38:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 11:38:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 163
+[14-Sep-2019 13:19:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'abfa_rgu'@'localhost' (using password: YES) in /home/bnsznyem/public_html/store/connection.php on line 9
+[14-Sep-2019 13:19:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bnsznyem/public_html/store/store.php on line 11
+[14-Sep-2019 13:19:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 13:19:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 163
+[14-Sep-2019 13:29:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'abfa_rgu'@'localhost' (using password: YES) in /home/bnsznyem/public_html/store/connection.php on line 9
+[14-Sep-2019 13:29:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bnsznyem/public_html/store/store.php on line 11
+[14-Sep-2019 13:29:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 13:29:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 163
+[14-Sep-2019 13:29:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'abfa_rgu'@'localhost' (using password: YES) in /home/bnsznyem/public_html/store/connection.php on line 9
+[14-Sep-2019 13:29:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bnsznyem/public_html/store/store.php on line 11
+[14-Sep-2019 13:29:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 13:29:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 163
+[14-Sep-2019 13:30:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'abfa_rgu'@'localhost' (using password: YES) in /home/bnsznyem/public_html/store/connection.php on line 9
+[14-Sep-2019 13:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bnsznyem/public_html/store/store.php on line 11
+[14-Sep-2019 13:30:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 13:30:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 163
+[14-Sep-2019 13:33:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'abfa_rgu'@'localhost' (using password: YES) in /home/bnsznyem/public_html/store/connection.php on line 9
+[14-Sep-2019 13:33:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bnsznyem/public_html/store/store.php on line 11
+[14-Sep-2019 13:33:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 13:33:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 163
+[14-Sep-2019 13:55:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 14:13:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 14:16:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 15:13:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 18:23:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 18:23:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:01:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:10:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:21:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:31:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:38:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:38:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:38:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:38:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:38:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:38:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:38:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:38:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:38:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:38:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:38:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:38:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:38:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:38:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:38:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:38:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:38:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:38:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:38:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:38:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 19:55:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 21:07:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[14-Sep-2019 21:21:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[15-Sep-2019 00:54:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[15-Sep-2019 02:46:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[15-Sep-2019 03:58:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[15-Sep-2019 04:41:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[15-Sep-2019 06:55:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/store/store.php on line 73
+[15-Sep-2019 12:29:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[15-Sep-2019 12:31:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[15-Sep-2019 12:35:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[15-Sep-2019 12:35:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[15-Sep-2019 12:37:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[15-Sep-2019 12:37:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[15-Sep-2019 13:20:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[15-Sep-2019 13:39:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[15-Sep-2019 13:39:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[16-Sep-2019 18:04:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[17-Sep-2019 16:07:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[17-Sep-2019 16:09:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[18-Sep-2019 08:10:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'bnsznyem_abfa'@'localhost' to database 'bnsznyem_rgu' in /home/bnsznyem/public_html/pharma.regrowup.com/store/connection.php on line 9
+[18-Sep-2019 08:10:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 11
+[18-Sep-2019 08:10:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[18-Sep-2019 08:10:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 163
+[18-Sep-2019 12:25:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'bnsznyem_abfa'@'localhost' to database 'bnsznyem_rgu' in /home/bnsznyem/public_html/pharma.regrowup.com/store/connection.php on line 9
+[18-Sep-2019 12:25:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 11
+[18-Sep-2019 12:25:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[18-Sep-2019 12:25:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 163
+[18-Sep-2019 12:27:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[18-Sep-2019 14:21:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[18-Sep-2019 14:32:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[18-Sep-2019 15:27:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[18-Sep-2019 16:05:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[19-Sep-2019 04:58:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[19-Sep-2019 05:00:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[19-Sep-2019 05:00:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[19-Sep-2019 05:00:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[19-Sep-2019 10:03:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[19-Sep-2019 10:03:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[19-Sep-2019 13:03:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[20-Sep-2019 11:43:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[20-Sep-2019 12:00:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[20-Sep-2019 12:00:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[20-Sep-2019 12:04:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[20-Sep-2019 12:45:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[20-Sep-2019 12:53:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[20-Sep-2019 17:03:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[21-Sep-2019 04:45:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[21-Sep-2019 06:40:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[21-Sep-2019 06:40:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[21-Sep-2019 07:02:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[21-Sep-2019 07:03:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[21-Sep-2019 07:03:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[21-Sep-2019 07:03:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[21-Sep-2019 07:04:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/profile.php on line 69
+[21-Sep-2019 07:04:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'abfa_rgu'@'localhost' (using password: YES) in /home/bnsznyem/public_html/pharma.regrowup.com/store/book.php on line 38
+[21-Sep-2019 07:04:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'abfa_rgu'@'localhost' (using password: YES) in /home/bnsznyem/public_html/pharma.regrowup.com/store/book.php on line 38
+[21-Sep-2019 07:15:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[21-Sep-2019 16:08:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[21-Sep-2019 16:17:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[22-Sep-2019 07:26:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[22-Sep-2019 07:30:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[22-Sep-2019 11:43:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[22-Sep-2019 11:43:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[22-Sep-2019 11:43:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[22-Sep-2019 11:44:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/profile.php on line 69
+[22-Sep-2019 11:45:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[22-Sep-2019 11:46:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/profile.php on line 69
+[22-Sep-2019 12:09:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[22-Sep-2019 12:28:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[22-Sep-2019 15:27:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[28-Jun-2020 11:50:40 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[28-Jun-2020 12:16:49 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[28-Jun-2020 12:21:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[28-Jun-2020 12:26:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[28-Jun-2020 12:59:25 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[28-Jun-2020 13:03:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[28-Jun-2020 13:06:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[28-Jun-2020 13:07:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[28-Jun-2020 13:07:38 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[28-Jun-2020 13:07:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[28-Jun-2020 13:07:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[28-Jun-2020 22:57:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[29-Jun-2020 08:43:56 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[29-Jun-2020 08:44:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[29-Jun-2020 16:18:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[29-Jun-2020 16:18:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[30-Jun-2020 00:13:09 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[30-Jun-2020 12:12:47 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[30-Jun-2020 12:14:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[30-Jun-2020 12:14:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[30-Jun-2020 14:08:02 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[01-Jul-2020 00:06:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[01-Jul-2020 00:06:05 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[01-Jul-2020 00:49:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[01-Jul-2020 00:49:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[03-Jul-2020 11:57:08 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[03-Jul-2020 11:57:08 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[03-Jul-2020 13:10:40 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[03-Jul-2020 13:10:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[04-Jul-2020 04:46:19 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[04-Jul-2020 04:46:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[04-Jul-2020 11:12:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[04-Jul-2020 11:12:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[05-Jul-2020 02:07:36 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[05-Jul-2020 02:07:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[07-Jul-2020 03:35:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[07-Jul-2020 03:35:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[07-Jul-2020 03:38:33 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[07-Jul-2020 03:38:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[07-Jul-2020 11:16:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 02:10:58 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 02:10:59 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 22:11:19 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 22:11:19 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 22:11:21 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 22:11:21 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 22:22:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 22:27:11 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 22:27:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 22:27:21 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:15:52 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:16:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:16:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:16:07 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:16:43 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:17:24 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:17:24 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:17:25 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:17:27 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:17:49 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:07 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:19 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:23 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:24 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:25 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:26 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:27 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:29 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:30 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:30 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:47 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:48 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:48 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:49 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:54 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:54 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:56 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:57 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:18:58 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:05 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:07 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:08 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:19 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:35 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:36 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:38 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:38 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:43 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:50 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:19:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:06 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:07 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:07 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:08 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:10 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:16 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:19 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:21 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:23 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:23 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:24 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:24 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:25 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:26 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:32 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:43 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:52 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:53 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:54 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[10-Jul-2020 23:20:54 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[11-Jul-2020 08:40:31 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[11-Jul-2020 08:40:40 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[11-Jul-2020 10:23:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[11-Jul-2020 15:12:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[11-Jul-2020 16:27:45 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[12-Jul-2020 05:12:27 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[14-Jul-2020 00:37:04 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[14-Jul-2020 01:29:43 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[14-Jul-2020 01:32:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[14-Jul-2020 02:22:43 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[14-Jul-2020 02:22:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[16-Jul-2020 03:19:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[16-Jul-2020 03:22:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[16-Jul-2020 08:41:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[16-Jul-2020 08:41:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[16-Jul-2020 08:41:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[16-Jul-2020 13:50:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/bnsznyem/public_html/pharma.regrowup.com/store/store.php on line 73
+[26-Jul-2020 02:25:40 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bnsznyem_abfa'@'localhost' (using password: YES) in /home/ironxpxj/health.irontin.com/store/connection.php on line 9
+[26-Jul-2020 02:25:40 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ironxpxj/health.irontin.com/store/store.php on line 11
+[26-Jul-2020 02:25:40 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/health.irontin.com/store/store.php on line 73
+[26-Jul-2020 02:25:40 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/store/store.php on line 73
+[26-Jul-2020 02:25:40 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/store/store.php on line 163
+[26-Jul-2020 02:26:37 America/New_York] PHP Warning:  include_once(/c/db/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/store/store.php on line 3
+[26-Jul-2020 02:26:37 America/New_York] PHP Warning:  include_once(): Failed opening '/c/db/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/store/store.php on line 3
+[26-Jul-2020 02:26:37 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/store/store.php on line 11
+[26-Jul-2020 02:26:37 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/store/store.php on line 11
+[26-Jul-2020 02:26:37 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/health.irontin.com/store/store.php on line 73
+[26-Jul-2020 02:26:37 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/store/store.php on line 73
+[26-Jul-2020 02:26:37 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/store/store.php on line 163
+[26-Jul-2020 02:26:51 America/New_York] PHP Warning:  include_once(/c/db/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/store/store.php on line 3
+[26-Jul-2020 02:26:51 America/New_York] PHP Warning:  include_once(): Failed opening '/c/db/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/store/store.php on line 3
+[26-Jul-2020 02:26:51 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/store/store.php on line 11
+[26-Jul-2020 02:26:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/store/store.php on line 11
+[26-Jul-2020 02:26:51 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bnsznyem_abfa'@'localhost' (using password: YES) in /home/ironxpxj/health.irontin.com/store/connection.php on line 9
+[26-Jul-2020 02:26:51 America/New_York] PHP Notice:  Undefined index: location in /home/ironxpxj/health.irontin.com/store/store.php on line 22
+[26-Jul-2020 02:26:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ironxpxj/health.irontin.com/store/store.php on line 24
+[26-Jul-2020 02:26:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/store/store.php on line 73
+[26-Jul-2020 02:26:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/store/store.php on line 163
+[26-Jul-2020 02:27:21 America/New_York] PHP Warning:  include_once(/c/db/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/store/store.php on line 3
+[26-Jul-2020 02:27:21 America/New_York] PHP Warning:  include_once(): Failed opening '/c/db/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/store/store.php on line 3
+[26-Jul-2020 02:27:21 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/store/store.php on line 11
+[26-Jul-2020 02:27:21 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/store/store.php on line 11
+[26-Jul-2020 02:27:21 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/health.irontin.com/store/store.php on line 73
+[26-Jul-2020 02:27:21 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/store/store.php on line 73
+[26-Jul-2020 02:27:21 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/store/store.php on line 163
+[26-Jul-2020 02:28:16 America/New_York] PHP Warning:  include_once(/c/db/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/store/store.php on line 3
+[26-Jul-2020 02:28:16 America/New_York] PHP Warning:  include_once(): Failed opening '/c/db/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/store/store.php on line 3
+[26-Jul-2020 02:28:16 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/store/store.php on line 11
+[26-Jul-2020 02:28:16 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/store/store.php on line 11
+[26-Jul-2020 02:28:16 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/health.irontin.com/store/store.php on line 73
+[26-Jul-2020 02:28:16 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/store/store.php on line 73
+[26-Jul-2020 02:28:16 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/store/store.php on line 163
+[26-Jul-2020 02:30:19 America/New_York] PHP Warning:  include_once(/c/db/connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/store/store.php on line 3
+[26-Jul-2020 02:30:19 America/New_York] PHP Warning:  include_once(): Failed opening '/c/db/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/store/store.php on line 3
+[26-Jul-2020 02:30:19 America/New_York] PHP Notice:  Undefined variable: mysqli in /home/ironxpxj/health.irontin.com/store/store.php on line 11
+[26-Jul-2020 02:30:19 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ironxpxj/health.irontin.com/store/store.php on line 11
+[26-Jul-2020 02:30:19 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/health.irontin.com/store/store.php on line 73
+[26-Jul-2020 02:30:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/store/store.php on line 73
+[26-Jul-2020 02:30:19 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/store/store.php on line 163
+[26-Jul-2020 02:30:42 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/health.irontin.com/store/store.php on line 73
+[26-Jul-2020 02:30:42 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/store/store.php on line 73
+[26-Jul-2020 02:30:42 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ironxpxj/health.irontin.com/store/store.php on line 163
+[26-Jul-2020 02:31:04 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/health.irontin.com/store/store.php on line 73
+[26-Jul-2020 02:31:04 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/store/store.php on line 73
+[26-Jul-2020 02:31:38 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/health.irontin.com/store/store.php on line 73
+[26-Jul-2020 02:31:38 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/store/store.php on line 73
+[26-Jul-2020 02:31:54 America/New_York] PHP Notice:  Undefined variable: resul in /home/ironxpxj/health.irontin.com/store/profile.php on line 69
+[26-Jul-2020 02:31:54 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/health.irontin.com/store/profile.php on line 69
+[26-Jul-2020 02:32:15 America/New_York] PHP Notice:  Undefined variable: message in /home/ironxpxj/health.irontin.com/store/book.php on line 127
+[26-Jul-2020 02:32:53 America/New_York] PHP Warning:  A non-numeric value encountered in /home/ironxpxj/health.irontin.com/store/book.php on line 14
+[26-Jul-2020 02:32:53 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'abfa_rgu'@'localhost' (using password: YES) in /home/ironxpxj/health.irontin.com/store/book.php on line 38
+[26-Jul-2020 02:33:50 America/New_York] PHP Notice:  Undefined variable: message in /home/ironxpxj/health.irontin.com/store/book.php on line 118
+[26-Jul-2020 02:34:07 America/New_York] PHP Notice:  Undefined variable: Expiry_date in /home/ironxpxj/health.irontin.com/store/book.php on line 37
+[26-Jul-2020 02:34:07 America/New_York] PHP Warning:  mysqli_multi_query() expects parameter 1 to be mysqli, object given in /home/ironxpxj/health.irontin.com/store/book.php on line 44
+[26-Jul-2020 02:34:07 America/New_York] PHP Notice:  Undefined variable: sql in /home/ironxpxj/health.irontin.com/store/book.php on line 53
+[26-Jul-2020 02:34:07 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, object given in /home/ironxpxj/health.irontin.com/store/book.php on line 53
+[26-Jul-2020 02:34:07 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/ironxpxj/health.irontin.com/store/book.php on line 57
+[26-Jul-2020 02:34:07 America/New_York] PHP Notice:  Undefined variable: message in /home/ironxpxj/health.irontin.com/store/book.php on line 118
+[26-Jul-2020 02:34:16 America/New_York] PHP Notice:  Undefined variable: message in /home/ironxpxj/health.irontin.com/store/book.php on line 118
+[26-Jul-2020 02:34:17 America/New_York] PHP Notice:  Undefined variable: message in /home/ironxpxj/health.irontin.com/store/book.php on line 118
+[26-Jul-2020 02:34:23 America/New_York] PHP Notice:  Undefined variable: message in /home/ironxpxj/health.irontin.com/store/book.php on line 118
+[26-Jul-2020 02:34:28 America/New_York] PHP Notice:  Undefined variable: message in /home/ironxpxj/health.irontin.com/store/book.php on line 118
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 112
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:32 America/New_York] PHP Notice:  Undefined variable: res in /home/ironxpxj/health.irontin.com/store/profile.php on line 113
+[26-Jul-2020 02:35:59 America/New_York] PHP Notice:  Undefined variable: message in /home/ironxpxj/health.irontin.com/store/book.php on line 118
+[26-Jul-2020 02:35:59 America/New_York] PHP Notice:  Undefined variable: name in /home/ironxpxj/health.irontin.com/store/book.php on line 130
+[26-Jul-2020 02:35:59 America/New_York] PHP Notice:  Undefined variable: price in /home/ironxpxj/health.irontin.com/store/book.php on line 137
+[26-Jul-2020 02:35:59 America/New_York] PHP Notice:  Undefined variable: Expiry_date in /home/ironxpxj/health.irontin.com/store/book.php on line 141
+[26-Jul-2020 02:35:59 America/New_York] PHP Notice:  Undefined variable: Company_Name in /home/ironxpxj/health.irontin.com/store/book.php on line 148
+[26-Jul-2020 02:35:59 America/New_York] PHP Notice:  Undefined variable: Packing in /home/ironxpxj/health.irontin.com/store/book.php on line 151

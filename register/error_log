@@ -1,0 +1,553 @@
+[26-Jul-2020 17:50:56 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 17:50:56 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/health.irontin.com/c/db/connection.php on line 44
+[26-Jul-2020 17:51:06 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/health.irontin.com/entery/history.php on line 12
+[26-Jul-2020 17:51:06 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/entery/history.php on line 30
+[26-Jul-2020 17:51:06 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/entery/history.php on line 30
+[26-Jul-2020 17:51:06 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 17:51:06 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/health.irontin.com/c/db/connection.php on line 44
+[26-Jul-2020 18:34:51 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 18:34:51 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 137
+[26-Jul-2020 18:34:53 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 18:34:53 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/health.irontin.com/c/db/connection.php on line 44
+[26-Jul-2020 18:34:55 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/health.irontin.com/register/history.php on line 12
+[26-Jul-2020 18:34:55 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/register/history.php on line 30
+[26-Jul-2020 18:34:55 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/register/history.php on line 30
+[26-Jul-2020 18:34:55 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 18:34:55 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/health.irontin.com/c/db/connection.php on line 44
+[26-Jul-2020 18:35:09 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/health.irontin.com/register/history.php on line 12
+[26-Jul-2020 18:35:09 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/health.irontin.com/register/history.php on line 30
+[26-Jul-2020 18:35:09 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/health.irontin.com/register/history.php on line 30
+[26-Jul-2020 18:35:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/health.irontin.com/c/v/footer.php on line 4
+[26-Jul-2020 18:35:09 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/health.irontin.com/c/db/connection.php on line 44
+[01-Aug-2020 01:32:47 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[01-Aug-2020 01:32:47 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[01-Aug-2020 01:32:47 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[01-Aug-2020 01:32:47 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[01-Aug-2020 01:32:47 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[01-Aug-2020 01:32:48 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[01-Aug-2020 01:32:48 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[01-Aug-2020 01:32:48 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[01-Aug-2020 01:32:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[01-Aug-2020 01:32:49 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[03-Aug-2020 08:36:43 America/New_York] PHP Warning:  include_once(../m/product_reg/autoentryAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/import.php on line 9
+[03-Aug-2020 08:36:43 America/New_York] PHP Warning:  include_once(): Failed opening '../m/product_reg/autoentryAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/import.php on line 9
+[03-Aug-2020 08:36:43 America/New_York] PHP Notice:  Undefined variable: output in /home/ironxpxj/healcura.irontin.com/register/import.php on line 35
+[03-Aug-2020 08:36:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 08:36:43 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[03-Aug-2020 08:37:07 America/New_York] PHP Warning:  include_once(../m/product_reg/autoentryAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/import.php on line 9
+[03-Aug-2020 08:37:07 America/New_York] PHP Warning:  include_once(): Failed opening '../m/product_reg/autoentryAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/import.php on line 9
+[03-Aug-2020 08:37:07 America/New_York] PHP Notice:  Undefined variable: output in /home/ironxpxj/healcura.irontin.com/register/import.php on line 35
+[03-Aug-2020 08:37:07 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 08:37:07 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[03-Aug-2020 08:37:28 America/New_York] PHP Warning:  include_once(../m/product_reg/autoentryAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/import.php on line 9
+[03-Aug-2020 08:37:28 America/New_York] PHP Warning:  include_once(): Failed opening '../m/product_reg/autoentryAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/import.php on line 9
+[03-Aug-2020 08:37:28 America/New_York] PHP Notice:  Undefined variable: output in /home/ironxpxj/healcura.irontin.com/register/import.php on line 35
+[03-Aug-2020 08:37:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 08:37:28 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[03-Aug-2020 08:38:28 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[03-Aug-2020 08:38:28 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[03-Aug-2020 08:38:28 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[03-Aug-2020 08:38:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 08:38:28 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[03-Aug-2020 08:38:35 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[03-Aug-2020 08:38:35 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Aug-2020 08:38:35 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Aug-2020 08:38:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 08:38:36 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[03-Aug-2020 08:38:44 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Aug-2020 08:38:44 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Aug-2020 08:38:44 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 08:38:44 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[03-Aug-2020 08:38:54 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Aug-2020 08:38:54 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Aug-2020 08:38:54 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 08:38:54 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[03-Aug-2020 08:38:54 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Aug-2020 08:38:54 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Aug-2020 08:38:55 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 08:38:55 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[03-Aug-2020 08:39:05 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Aug-2020 08:39:05 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Aug-2020 08:39:05 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 08:39:05 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[03-Aug-2020 08:39:16 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Aug-2020 08:39:16 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Aug-2020 08:39:16 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 08:39:16 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[03-Aug-2020 08:39:25 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Aug-2020 08:39:25 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Aug-2020 08:39:25 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 08:39:25 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[03-Aug-2020 08:39:37 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[03-Aug-2020 08:39:37 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Aug-2020 08:39:37 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Aug-2020 08:39:38 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 08:39:38 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[03-Aug-2020 08:39:44 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[03-Aug-2020 08:39:44 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[03-Aug-2020 08:39:44 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[03-Aug-2020 08:39:44 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 08:39:44 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[03-Aug-2020 15:21:32 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[03-Aug-2020 15:21:32 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[03-Aug-2020 15:21:32 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[03-Aug-2020 15:21:32 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 15:21:32 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[03-Aug-2020 15:21:32 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[03-Aug-2020 15:21:32 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[03-Aug-2020 15:21:32 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[03-Aug-2020 15:21:32 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 15:21:32 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[03-Aug-2020 15:21:35 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[03-Aug-2020 15:21:35 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Aug-2020 15:21:35 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Aug-2020 15:21:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 15:21:36 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[03-Aug-2020 15:21:37 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[03-Aug-2020 15:21:37 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Aug-2020 15:21:37 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Aug-2020 15:21:37 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Aug-2020 15:21:37 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[15-Aug-2020 14:11:39 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[15-Aug-2020 14:11:39 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[15-Aug-2020 14:11:39 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[15-Aug-2020 14:11:39 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[15-Aug-2020 14:11:39 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 20:56:41 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 20:56:41 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 20:56:41 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 20:56:41 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 20:56:41 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 20:56:53 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[24-Aug-2020 20:56:53 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 20:56:53 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 20:56:53 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 20:56:53 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 20:58:38 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 20:58:38 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 20:58:38 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 20:58:38 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 20:58:38 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 20:59:37 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[24-Aug-2020 20:59:37 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 20:59:37 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 20:59:37 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 20:59:37 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:03:35 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:03:35 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:03:35 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:03:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:03:35 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 21:04:28 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:04:28 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:04:28 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:04:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:04:28 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 21:04:51 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:04:51 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:04:51 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:04:51 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:04:51 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 21:05:15 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bnsznyem_abfa'@'localhost' (using password: YES) in /home/ironxpxj/healcura.irontin.com/register/productAPI.php on line 12
+[24-Aug-2020 21:05:15 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/productAPI.php on line 16
+[24-Aug-2020 21:05:15 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/productAPI.php on line 16
+[24-Aug-2020 21:05:15 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ironxpxj/healcura.irontin.com/register/productAPI.php on line 46
+[24-Aug-2020 21:05:15 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/ironxpxj/healcura.irontin.com/register/productAPI.php on line 48
+[24-Aug-2020 21:05:15 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/ironxpxj/healcura.irontin.com/register/productAPI.php on line 48
+[24-Aug-2020 21:05:15 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ironxpxj/healcura.irontin.com/register/productAPI.php on line 50
+[24-Aug-2020 21:05:15 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bnsznyem_abfa'@'localhost' (using password: YES) in /home/ironxpxj/healcura.irontin.com/register/productAPI.php on line 61
+[24-Aug-2020 21:07:40 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:07:40 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:07:40 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:07:40 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:07:40 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 21:07:45 America/New_York] PHP Notice:  Undefined variable: batchNo in /home/ironxpxj/healcura.irontin.com/register/productAPI.php on line 64
+[24-Aug-2020 21:07:45 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ironxpxj/healcura.irontin.com/c/v/nav.php:29) in /home/ironxpxj/healcura.irontin.com/register/productAPI.php on line 78
+[24-Aug-2020 21:07:56 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[24-Aug-2020 21:07:56 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:07:56 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:07:56 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:07:56 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:08:01 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:08:01 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:08:01 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:08:01 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:08:06 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:08:06 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:08:06 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:08:06 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:08:06 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 21:10:17 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:10:17 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:10:17 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:10:17 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:10:17 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 21:10:28 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ironxpxj/healcura.irontin.com/c/v/nav.php:29) in /home/ironxpxj/healcura.irontin.com/register/productAPI.php on line 83
+[24-Aug-2020 21:11:58 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:11:58 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:11:58 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:11:58 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:11:58 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 21:12:01 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ironxpxj/healcura.irontin.com/c/v/nav.php:29) in /home/ironxpxj/healcura.irontin.com/register/productAPI.php on line 67
+[24-Aug-2020 21:12:05 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:12:05 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:12:05 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:12:05 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:12:05 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 21:12:11 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ironxpxj/healcura.irontin.com/c/v/nav.php:29) in /home/ironxpxj/healcura.irontin.com/register/productAPI.php on line 78
+[24-Aug-2020 21:12:28 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:12:28 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:12:28 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:12:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:12:28 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 21:12:33 America/New_York] PHP Warning:  Use of undefined constant h - assumed 'h' (this will throw an Error in a future version of PHP) in /home/ironxpxj/healcura.irontin.com/register/productAPI.php on line 78
+[24-Aug-2020 21:16:26 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:16:26 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:16:26 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:16:26 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:16:26 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 21:16:52 America/New_York] PHP Warning:  Use of undefined constant h - assumed 'h' (this will throw an Error in a future version of PHP) in /home/ironxpxj/healcura.irontin.com/register/productAPI.php on line 78
+[24-Aug-2020 21:16:52 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:16:52 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:16:52 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:16:52 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:16:52 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 21:16:56 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:16:56 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:16:56 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:16:56 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:16:56 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 21:16:59 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[24-Aug-2020 21:16:59 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:16:59 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:16:59 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:16:59 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:17:04 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:17:04 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:17:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:17:04 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:17:29 America/New_York] PHP Warning:  include_once(../m/product_reg/autoentryAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/import.php on line 9
+[24-Aug-2020 21:17:29 America/New_York] PHP Warning:  include_once(): Failed opening '../m/product_reg/autoentryAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/import.php on line 9
+[24-Aug-2020 21:17:29 America/New_York] PHP Notice:  Undefined variable: output in /home/ironxpxj/healcura.irontin.com/register/import.php on line 35
+[24-Aug-2020 21:17:29 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:17:29 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:18:09 America/New_York] PHP Warning:  include_once(../m/product_reg/autoentryAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/import.php on line 9
+[24-Aug-2020 21:18:09 America/New_York] PHP Warning:  include_once(): Failed opening '../m/product_reg/autoentryAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/import.php on line 9
+[24-Aug-2020 21:18:09 America/New_York] PHP Notice:  Undefined variable: output in /home/ironxpxj/healcura.irontin.com/register/import.php on line 35
+[24-Aug-2020 21:18:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:18:09 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:18:14 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[24-Aug-2020 21:18:14 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:18:14 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:18:14 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:18:14 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:18:20 America/New_York] PHP Warning:  include_once(../m/product_reg/autoentryAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/import.php on line 9
+[24-Aug-2020 21:18:20 America/New_York] PHP Warning:  include_once(): Failed opening '../m/product_reg/autoentryAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/import.php on line 9
+[24-Aug-2020 21:18:20 America/New_York] PHP Notice:  Undefined variable: output in /home/ironxpxj/healcura.irontin.com/register/import.php on line 35
+[24-Aug-2020 21:18:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:18:20 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:20:27 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:20:27 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:21:01 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 6
+[24-Aug-2020 21:21:01 America/New_York] PHP Notice:  Undefined index: name in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 12
+[24-Aug-2020 21:21:01 America/New_York] PHP Warning:  include(PHPExcel/IOFactory.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 13
+[24-Aug-2020 21:21:01 America/New_York] PHP Warning:  include(PHPExcel/IOFactory.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 13
+[24-Aug-2020 21:21:01 America/New_York] PHP Warning:  include(): Failed opening 'PHPExcel/IOFactory.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 13
+[24-Aug-2020 21:21:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPExcel_IOFactory' not found in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php:14
+Stack trace:
+#0 /home/ironxpxj/healcura.irontin.com/register/import.php(9): include_once()
+#1 {main}
+  thrown in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 14
+[24-Aug-2020 21:21:08 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[24-Aug-2020 21:21:08 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:21:08 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:21:08 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:21:08 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:22:15 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[24-Aug-2020 21:22:15 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:22:15 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:22:15 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:22:15 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:22:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:22:20 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:22:45 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 6
+[24-Aug-2020 21:22:45 America/New_York] PHP Notice:  Undefined index: name in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 12
+[24-Aug-2020 21:22:45 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:22:45 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:22:51 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[24-Aug-2020 21:22:51 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:22:51 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:22:51 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:22:51 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:22:59 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[24-Aug-2020 21:22:59 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:22:59 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:22:59 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:22:59 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:23:19 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[24-Aug-2020 21:23:19 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:23:19 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:23:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:23:19 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:25:04 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[24-Aug-2020 21:25:04 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:25:04 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:25:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:25:04 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:25:10 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:25:10 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:25:35 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 6
+[24-Aug-2020 21:25:35 America/New_York] PHP Notice:  Undefined index: name in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 12
+[24-Aug-2020 21:25:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:25:35 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:25:44 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[24-Aug-2020 21:25:44 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:25:44 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:25:44 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:25:44 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:26:13 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[24-Aug-2020 21:26:13 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:26:13 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:26:13 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:26:13 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:26:18 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:26:18 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:26:44 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 12
+[24-Aug-2020 21:26:44 America/New_York] PHP Notice:  Undefined index: name in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 18
+[24-Aug-2020 21:26:44 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:26:44 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:26:49 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[24-Aug-2020 21:26:49 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:26:49 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:26:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:26:49 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:30:55 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:30:55 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:31:13 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 22
+[24-Aug-2020 21:31:13 America/New_York] PHP Notice:  Undefined index: name in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 28
+[24-Aug-2020 21:31:13 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:31:13 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:31:19 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[24-Aug-2020 21:31:19 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:31:19 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:31:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:31:19 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:32:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:32:35 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:32:59 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 22
+[24-Aug-2020 21:32:59 America/New_York] PHP Notice:  Undefined index: name in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 28
+[24-Aug-2020 21:32:59 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:32:59 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[24-Aug-2020 21:33:04 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:33:04 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:33:04 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[24-Aug-2020 21:33:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:33:04 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[24-Aug-2020 21:33:07 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[24-Aug-2020 21:33:07 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:33:07 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[24-Aug-2020 21:33:07 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[24-Aug-2020 21:33:07 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[25-Aug-2020 18:50:25 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[25-Aug-2020 18:50:25 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 18:50:25 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 18:50:25 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 18:50:25 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[25-Aug-2020 18:50:30 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[25-Aug-2020 18:50:30 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[25-Aug-2020 18:50:30 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[25-Aug-2020 18:50:30 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 18:50:30 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[25-Aug-2020 18:50:57 America/New_York] PHP Notice:  Undefined variable: batchNo in /home/ironxpxj/healcura.irontin.com/register/productAPI.php on line 64
+[25-Aug-2020 18:50:57 America/New_York] PHP Warning:  Use of undefined constant h - assumed 'h' (this will throw an Error in a future version of PHP) in /home/ironxpxj/healcura.irontin.com/register/productAPI.php on line 78
+[25-Aug-2020 18:50:57 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[25-Aug-2020 18:50:57 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[25-Aug-2020 18:50:57 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[25-Aug-2020 18:50:57 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 18:50:57 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[25-Aug-2020 18:51:07 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 18:51:07 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[25-Aug-2020 18:51:09 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[25-Aug-2020 18:51:09 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 18:51:09 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 18:51:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 18:51:09 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[25-Aug-2020 18:51:54 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[25-Aug-2020 18:51:54 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[25-Aug-2020 18:51:54 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[25-Aug-2020 18:51:54 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 18:51:54 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[25-Aug-2020 18:52:14 America/New_York] PHP Notice:  Undefined variable: batchNo in /home/ironxpxj/healcura.irontin.com/register/productAPI.php on line 64
+[25-Aug-2020 18:52:14 America/New_York] PHP Warning:  Use of undefined constant h - assumed 'h' (this will throw an Error in a future version of PHP) in /home/ironxpxj/healcura.irontin.com/register/productAPI.php on line 78
+[25-Aug-2020 18:52:15 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[25-Aug-2020 18:52:15 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[25-Aug-2020 18:52:15 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[25-Aug-2020 18:52:15 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 18:52:15 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[25-Aug-2020 18:52:18 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[25-Aug-2020 18:52:18 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 18:52:18 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 18:52:18 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 18:52:18 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[25-Aug-2020 18:52:23 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 18:52:23 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 18:52:23 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 18:52:23 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[25-Aug-2020 18:52:29 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 18:52:29 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[25-Aug-2020 18:52:47 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 22
+[25-Aug-2020 18:52:47 America/New_York] PHP Notice:  Undefined index: name in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 28
+[25-Aug-2020 18:52:48 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 18:52:48 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[25-Aug-2020 18:52:53 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[25-Aug-2020 18:52:53 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 18:52:53 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 18:52:53 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 18:52:53 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 44
+[25-Aug-2020 19:56:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 19:56:43 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[25-Aug-2020 19:57:04 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 22
+[25-Aug-2020 19:57:04 America/New_York] PHP Notice:  Undefined index: name in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 28
+[25-Aug-2020 19:57:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 19:57:04 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[25-Aug-2020 19:58:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 19:58:20 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[25-Aug-2020 19:58:34 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[25-Aug-2020 19:58:34 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 19:58:34 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 19:58:34 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 19:58:34 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[25-Aug-2020 20:00:22 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[25-Aug-2020 20:00:22 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 20:00:22 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 20:00:22 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:00:22 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[25-Aug-2020 20:00:33 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:00:33 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[25-Aug-2020 20:01:09 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 22
+[25-Aug-2020 20:01:09 America/New_York] PHP Notice:  Undefined index: name in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 28
+[25-Aug-2020 20:01:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:01:09 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[25-Aug-2020 20:01:29 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[25-Aug-2020 20:01:29 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 20:01:29 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 20:01:29 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:01:29 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[25-Aug-2020 20:03:35 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[25-Aug-2020 20:03:35 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 20:03:35 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 20:03:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:03:35 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[25-Aug-2020 20:03:42 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:03:42 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[25-Aug-2020 20:04:59 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 22
+[25-Aug-2020 20:04:59 America/New_York] PHP Notice:  Undefined index: name in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 28
+[25-Aug-2020 20:04:59 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:04:59 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[25-Aug-2020 20:06:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:06:28 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[25-Aug-2020 20:06:59 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 22
+[25-Aug-2020 20:06:59 America/New_York] PHP Notice:  Undefined index: name in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 28
+[25-Aug-2020 20:06:59 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:06:59 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[25-Aug-2020 20:07:11 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[25-Aug-2020 20:07:11 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 20:07:11 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 20:07:11 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:07:11 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[25-Aug-2020 20:16:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:16:35 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[25-Aug-2020 20:17:04 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 22
+[25-Aug-2020 20:17:04 America/New_York] PHP Notice:  Undefined index: name in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 28
+[25-Aug-2020 20:17:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:17:04 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[25-Aug-2020 20:18:15 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:18:15 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[25-Aug-2020 20:18:45 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 22
+[25-Aug-2020 20:18:45 America/New_York] PHP Notice:  Undefined index: name in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 28
+[25-Aug-2020 20:18:45 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:18:45 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[25-Aug-2020 20:19:00 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[25-Aug-2020 20:19:00 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 20:19:00 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[25-Aug-2020 20:19:00 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[25-Aug-2020 20:19:00 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[26-Aug-2020 18:02:04 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[26-Aug-2020 18:02:04 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[26-Aug-2020 18:02:04 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[26-Aug-2020 18:02:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[26-Aug-2020 18:02:04 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[26-Aug-2020 18:02:10 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[26-Aug-2020 18:02:10 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[26-Aug-2020 18:02:12 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[26-Aug-2020 18:02:12 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[26-Aug-2020 18:02:12 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[26-Aug-2020 18:02:12 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[26-Aug-2020 18:02:12 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[29-Aug-2020 16:06:25 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[29-Aug-2020 16:06:25 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[29-Aug-2020 16:06:25 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[29-Aug-2020 16:06:25 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[29-Aug-2020 16:06:25 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[29-Aug-2020 16:06:28 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[29-Aug-2020 16:06:28 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[29-Aug-2020 16:06:28 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[29-Aug-2020 16:06:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[29-Aug-2020 16:06:28 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[31-Aug-2020 02:46:25 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[31-Aug-2020 02:46:25 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[31-Aug-2020 02:46:25 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[31-Aug-2020 02:46:25 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 02:46:25 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[31-Aug-2020 04:13:21 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 04:13:21 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[31-Aug-2020 04:13:56 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 22
+[31-Aug-2020 04:13:56 America/New_York] PHP Notice:  Undefined index: name in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 28
+[31-Aug-2020 04:13:56 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 04:13:56 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[31-Aug-2020 04:16:23 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 22
+[31-Aug-2020 04:16:23 America/New_York] PHP Notice:  Undefined index: name in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 28
+[31-Aug-2020 04:16:23 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 04:16:23 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[31-Aug-2020 04:16:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 04:16:28 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[31-Aug-2020 04:16:30 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[31-Aug-2020 04:16:30 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[31-Aug-2020 04:16:30 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[31-Aug-2020 04:16:30 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 04:16:30 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[31-Aug-2020 04:16:34 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 04:16:34 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[31-Aug-2020 04:18:13 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 22
+[31-Aug-2020 04:18:13 America/New_York] PHP Notice:  Undefined index: name in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 28
+[31-Aug-2020 04:18:13 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 04:18:13 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[31-Aug-2020 04:21:26 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[31-Aug-2020 04:21:26 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[31-Aug-2020 04:21:26 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[31-Aug-2020 04:21:26 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[31-Aug-2020 04:21:26 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[02-Sep-2020 07:44:16 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[02-Sep-2020 07:44:16 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[02-Sep-2020 07:44:49 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 22
+[02-Sep-2020 07:44:49 America/New_York] PHP Notice:  Undefined index: name in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 28
+[02-Sep-2020 07:44:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[02-Sep-2020 07:44:49 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[02-Sep-2020 07:46:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[02-Sep-2020 07:46:49 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[02-Sep-2020 07:46:54 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[02-Sep-2020 07:46:54 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[02-Sep-2020 07:47:48 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 22
+[02-Sep-2020 07:47:48 America/New_York] PHP Notice:  Undefined index: name in /home/ironxpxj/healcura.irontin.com/register/autoentryAPI.php on line 28
+[02-Sep-2020 07:47:48 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[02-Sep-2020 07:47:48 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
+[03-Sep-2020 06:12:07 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[03-Sep-2020 06:12:07 America/New_York] PHP Warning:  include(../m/product_reg/productAPI.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[03-Sep-2020 06:12:07 America/New_York] PHP Warning:  include(): Failed opening '../m/product_reg/productAPI.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/products.php on line 7
+[03-Sep-2020 06:12:07 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Sep-2020 06:12:07 America/New_York] PHP Notice:  Undefined variable: msg in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 137
+[03-Sep-2020 06:12:10 America/New_York] PHP Notice:  Undefined index: date_reg in /home/ironxpxj/healcura.irontin.com/register/history.php on line 12
+[03-Sep-2020 06:12:10 America/New_York] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Sep-2020 06:12:10 America/New_York] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/ironxpxj/healcura.irontin.com/register/history.php on line 30
+[03-Sep-2020 06:12:10 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ironxpxj/healcura.irontin.com/c/v/footer.php on line 4
+[03-Sep-2020 06:12:10 America/New_York] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/ironxpxj/healcura.irontin.com/c/db/connection.php on line 57
